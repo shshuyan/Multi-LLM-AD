@@ -1,0 +1,1603 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04619420",
+      "orgStudyIdInfo": {
+        "id": "CR108832"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "63733657ALZ2002",
+          "type": "OTHER",
+          "domain": "Janssen Research & Development, LLC"
+        },
+        {
+          "id": "2020-000116-30",
+          "type": "EUDRACT_NUMBER"
+        },
+        {
+          "id": "2022-501188-42-00",
+          "type": "REGISTRY",
+          "domain": "EUCT number"
+        }
+      ],
+      "organization": {
+        "fullName": "Janssen Research & Development, LLC",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Study of JNJ-63733657 in Participants With Early Alzheimer's Disease",
+      "officialTitle": "A Randomized, Double-blind, Placebo-controlled, Parallel-group, Multicenter Study With a Long-Term Extension Treatment Period to Assess the Efficacy and Safety of JNJ-63733657, an Anti-tau Monoclonal Antibody, in Participants With Early Alzheimer's Disease",
+      "acronym": "Autonomy"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-12",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2021-01-06",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2025-10-17",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2032-12-30",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2020-11-05",
+      "studyFirstSubmitQcDate": "2020-11-05",
+      "studyFirstPostDateStruct": {
+        "date": "2020-11-06",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-12-04",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-12-05",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Janssen Research & Development, LLC",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The primary purpose of this study is to evaluate the effect of JNJ-63733657 versus placebo on clinical decline as measured by the Integrated Alzheimer's Disease Rating Scale (iADRS), a composite of cognition and function."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Alzheimer Disease",
+        "Cognitive Dysfunction",
+        "Dementia"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "There will be 3 treatment arms for the Double-Blind treatment period, whereas there will be only 2 treatment arms for the Long-Term extension treatment period.",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "QUADRUPLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 523,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "JNJ-63733657 Low-dose",
+          "type": "EXPERIMENTAL",
+          "description": "Participants will receive single dose of JNJ-63733657 low-dose administered by intravenous (IV) infusion every 4 weeks during the double-blind treatment period. Participants will have an option to continue with the long-term extension (LTE) phase of the trial and will continue to receive the same treatment and dose during the LTE treatment period.",
+          "interventionNames": [
+            "Drug: JNJ-63733657"
+          ]
+        },
+        {
+          "label": "JNJ-63733657 High-dose",
+          "type": "EXPERIMENTAL",
+          "description": "Participants will receive single dose of JNJ-63733657 high-dose administered by IV infusion every 4 weeks during double-blind treatment period. Participants will have an option to continue with the LTE phase of the trial and will continue to receive the same treatment and dose during the LTE treatment period.",
+          "interventionNames": [
+            "Drug: JNJ-63733657"
+          ]
+        },
+        {
+          "label": "Placebo",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "Participants will receive single dose of matching placebo to JNJ-63733657 administered by IV infusion every 4 weeks during double-blind treatment period. Participants will have an option to continue with the LTE phase of the trial and will be re-randomized in a 1:1 ratio to receive either JNJ-63733657 low-dose or JNJ-63733657 high-dose during the LTE treatment period.",
+          "interventionNames": [
+            "Drug: Placebo"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "JNJ-63733657",
+          "description": "JNJ-63733657 low or high dose will be administered by IV infusion.",
+          "armGroupLabels": [
+            "JNJ-63733657 High-dose",
+            "JNJ-63733657 Low-dose"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo",
+          "description": "Placebo matching to JNJ-63733657 will be administered by IV infusion.",
+          "armGroupLabels": [
+            "Placebo"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Change From Baseline in Integrated Alzheimer's Disease Rating Scale (iADRS) Total Score at Week 104",
+          "description": "The linear combination of the ADAS Cog13 and ADCS ADL MCI that serves as a composite of cognition and function (overall clinical status) of the participant and score range from 0 to 138 with lower scores indicating worse performance. The iADRS will be a combination of ADAS Cog13 (score 0 to 85, higher scores indicate worse cognitive performance) and ADCS-ADL MCI (yielding a score 0 to 53, lower scores indicate worse daily function).",
+          "timeFrame": "Week 104"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Change From Baseline in Alzheimer's Disease Assessment Scale Cognitive subscale 13-item version (ADAS-Cog 13) Total Score at Week 104",
+          "description": "ADAS-Cog11 consists of 11 tasks measuring the disturbances of memory, language, praxis, attention, and other cognitive abilities. The modified ADAS-Cog 13 item scale includes all original ADAS-Cog items with the addition of a number cancellation task and a delayed free recall task, for a maximum total score of 85 points, with higher scores indicative of worse cognitive performance. Thus, a negative change from baseline represents improvement in cognition. Items are recorded on an electronic device which will provide the ADAS-Cog 13 total score.",
+          "timeFrame": "Week 104"
+        },
+        {
+          "measure": "Change From Baseline in Alzheimer's Disease Cooperative Study Activities of Daily Living for Mild Cognitive Impairment (ADCS-ADL MCI) Total Score at Week 104",
+          "description": "ADCS-ADL MCI is a functional measure based on information provided by the study partner (informant) that describes the performance of participants in several ADLs. It assesses 18 instrumental activities of daily living (higher level daily functions) and one basic daily function (dressing). Total score ranges from 0 to 53 with higher scores indicating less impairment.",
+          "timeFrame": "Week 104"
+        },
+        {
+          "measure": "Change From Baseline in Repeatable Battery for the Assessment of Neuropsychological Status (RBANS) Total Scale Index Score at Week 88",
+          "description": "The RBANS includes 12 subtests that are divided into 5 RBANS indices: 1-Immediate memory (List learning and story memory); 2-Visuospatial/constructional (figure copy and line orientation); 3-Language (picture naming and semantic fluency); 4-Attention (digit span and coding); 5-Delayed memory (list recall, list recognition, story memory, and figure recall) will be reported. Index scores are expressed as an age-adjusted standard score with a normal mean of 100 and an SD of 15. The sum of Index Scores is the sum of the 5 index scores, and the Sum of Index Scores is converted to an RBANS Total Scale Index Score via a mapping table. RBANS Total Scale Index Score is a norm-based t-score, based on a distribution with a mean of 100 and standard deviation (SD) of 15. Higher scores on each sub measure and index indicate better performance.",
+          "timeFrame": "Baseline, Week 88"
+        },
+        {
+          "measure": "Change From Baseline in RBANS Indices at Week 88",
+          "description": "Change from baseline in RBANS indices will be assessed. The RBANS includes 12 subtests that are divided into 5 RBANS indices: 1-Immediate memory (List learning and story memory); 2-Visuospatial/constructional (figure copy and line orientation); 3-Language (picture naming and semantic fluency); 4-Attention (digit span and coding); 5-Delayed memory (list recall, list recognition, story memory, and figure recall) will be reported.",
+          "timeFrame": "Baseline, Week 88"
+        },
+        {
+          "measure": "Change From Baseline in Clinical Dementia Rating- Sum of Boxes (CDR-SB) at Week 104",
+          "description": "CDR is a global clinical staging instrument that includes 3 cognitive and 3 functional ratings, including: memory, orientation, judgment and problem solving, involvement in community affairs, home and hobbies, and personal care based on the CDR interview. The CDR is scored 2 ways yielding a global CDR score (CDR GS, derived from an algorithm including categorical scoring of 0, 0.5, 1, 2, and 3), as well as CDR-Sum of Boxes (CDR-SB, the continuous sum of 6 domains, up to a total score of 18, with higher scores representing worse disease state). The Sum of boxes and global score is calculated from the overall CDR.",
+          "timeFrame": "Baseline, Week 104"
+        },
+        {
+          "measure": "Change from Baseline in Neuropsychiatric Inventory (NPI) at Week 104",
+          "description": "The NPI is a measure of psychobehavioral disturbances, assessing the frequency and severity of disturbances in 12 domains. Frequency for each domain is rated on a 4 point scale (from 1=rarely to 4=very often) and severity on a 3 point scale (from 1=mild to 3=severe), with the score for each domain being the product of the frequency and severity scores, such that each domain is scored from 1 to 12. The NPI total score is the sum of the 12 domain scores, ranging from 0 (best) to 144 (worst).",
+          "timeFrame": "Baseline, Week 104"
+        },
+        {
+          "measure": "Percentage of Participants Progressing From Clinical Dementia Rating- Global Score (CDR-GS) 0 to 0.5 or Higher, 0.5 to 1 or Higher, 1 to 2 or Higher, from Baseline to Post-baseline through Week 104",
+          "description": "The CDR is a subjectively rated outcome measure that serves as a global clinical staging instrument that includes 3 cognitive and 3 functional ratings, including: 1) memory, 2) orientation, 3) judgment and problem solving, 4) involvement in community affairs, 5) home and hobbies, and 6) personal care based on the CDR interview. The CDR is scored 2 ways yielding a global CDR score (CDR GS, derived from an algorithm developed by the Knight Alzheimer Disease Research Center at Washington University School of Medicine in St. Louis, Missouri, US, and including categorical scoring of 0= cognitively unimpaired, 0.5= mild cognitive impairment, 1= mild dementia, 2= moderate dementia, and 3= severe dementia), as well as CDR-Sum of Boxes (CDR-SB, the continuous sum of 6 domains, up to a total score of 18, with higher scores representing worse disease state).",
+          "timeFrame": "From Baseline through Week 104"
+        },
+        {
+          "measure": "Change From Baseline in Brain tau Burden as Measured by tau PET at Week 104",
+          "description": "Change from baseline in brain tau burden, as measured by tau positron emission tomography (PET) will be assessed.",
+          "timeFrame": "Baseline, Week 104"
+        },
+        {
+          "measure": "Change From Baseline in Cerebrospinal Fluid (CSF) concentrations of Total, Free, and Bound p217+tau Fragments at Week 104",
+          "description": "Change from baseline in CSF concentrations of total, free, and bound p217+tau (phosphorylated tau) fragments will be assessed.",
+          "timeFrame": "Baseline, Week 104"
+        },
+        {
+          "measure": "CSF Concentrations of JNJ-63733657",
+          "description": "CSF concentrations of JNJ-63733657 will be assessed.",
+          "timeFrame": "At Weeks 52, 104, 208 (End of Treatment)"
+        },
+        {
+          "measure": "Serum Concentrations of JNJ-63733657",
+          "description": "Serum concentrations of JNJ-63733657 will be assessed.",
+          "timeFrame": "At Weeks 4, 8, 12, 16, 20, 24, 36, 52, 76, 104, 128, 156, 180, 208, 232 (End of treatment)"
+        },
+        {
+          "measure": "Anti-Drug Antibody to JNJ-63733657",
+          "description": "Anti-drug antibody to JNJ-63733657 will be assessed.",
+          "timeFrame": "Up to 245 Weeks (90 days [+-7 days] after last dose of study intervention)"
+        },
+        {
+          "measure": "Number of Participants with Adverse Events (AEs) as a Measure of Safety and Tolerability",
+          "description": "An AE is any untoward medical occurrence in a clinical study participant administered a medicinal (investigational or non investigational) product. An AE does not necessarily have a causal relationship with the intervention. An AE can therefore be any unfavorable and unintended sign (including an abnormal finding), symptom, or disease temporally associated with the use of a medicinal product, whether or not related to that medicinal product.",
+          "timeFrame": "Up to 245 Weeks"
+        },
+        {
+          "measure": "Number of Participants with Treatment-Emergent Adverse Event of Special Interest (AESI)",
+          "description": "Number of participants with a treatment-emergent AESI will be reported.",
+          "timeFrame": "Up to 245 Weeks"
+        },
+        {
+          "measure": "Number of Participants with Serious Adverse Events (SAEs) as a Measure of Safety and Tolerability",
+          "description": "An SAE is any untoward medical occurrence that at any dose results in death, is life-threatening, requires inpatient hospitalization or prolongation of existing hospitalization, results in persistent or significant disability/incapacity, is a congenital anomaly/birth defect, is a suspected transmission of any infectious agent via a medicinal product.",
+          "timeFrame": "Up to 245 Weeks"
+        },
+        {
+          "measure": "Number of Participants with Electrocardiogram (ECG) Abnormalities",
+          "description": "Number of participants with ECG abnormalities will be reported.",
+          "timeFrame": "Up to 245 Weeks"
+        },
+        {
+          "measure": "Number of Participants with Clinical Laboratory Abnormalities",
+          "description": "Number of participants with clinical laboratory (hematology, clinical chemistry, and urinalysis) abnormalities will be assessed.",
+          "timeFrame": "Up to 245 Weeks"
+        },
+        {
+          "measure": "Number of Participants with Physical and Neurological Examination Abnormalities",
+          "description": "Number of participants with physical (body weight, height) and neurological (evaluation of mental status, cranial nerves, motor ability \\[including strength, tone, and involuntary movements\\], coordination \\[including finger-to-nose, gait, and postural reflexes\\], and sensation \\[including proprioception, cold, light touch, and deep tendon reflexes\\]) examination abnormalities will be reported.",
+          "timeFrame": "Up to 245 Weeks"
+        },
+        {
+          "measure": "Percentage of Participants with Vital Sign Abnormalities",
+          "description": "Percentage of participants with vital sign abnormalities (temperature, pulse rate, systolic blood pressure \\[BP\\], diastolic BP) will be reported.",
+          "timeFrame": "Up to 245 Weeks"
+        },
+        {
+          "measure": "Changes From Baseline in Brain Magnetic Resonance Imaging (MRI) Safety Findings",
+          "description": "Changes from baseline in brain MRI safety findings (brain tumors, aneurysm or atrioventricular malformations, territorial stroke (excluding smaller watershed strokes), recent hemorrhage (parenchymal or subdural), or obstructive hydrocephalus) will be assessed.",
+          "timeFrame": "Baseline and Up to 4.5 years (End of treatment)"
+        },
+        {
+          "measure": "Change From Baseline in Columbia Suicide Severity Rating Scale (C-SSRS) score",
+          "description": "C-SSRS is semi structured clinician-administered questionnaire designed to solicit the occurrence, severity, and frequency of suicide-related ideation and behaviors . Total score ranges from 1 to 10, a score of 0 will be assigned (0=\"no event that can be assessed on the basis of C-SSRS\"). Higher scores indicate greater severity. The maximum score assigned for each participant will also be summarized into one of three broad categories: no suicidal ideation or behavior (0), suicidal ideation (1 to 5), suicidal behavior (6 to 10).",
+          "timeFrame": "Baseline and Up to 245 Weeks"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Early Alzheimer's disease (AD): Gradual and progressive subjective decline in the participant's cognition over at least the past 6 months, as reported by the participant and informant (study partner) and Clinical Dementia Rating-Global Score (CDR-GS) of 0.5 and memory box score greater than or equal to (\\>=) 0.5 at screening\n* Participants must have positive tau PET results\n* Able to read and write and with a minimum 5 years of formal education as reported by participant and study partner at screening\n* Have a designated study partner who has adequate literacy to participate and be judged to have high likelihood of completing the study with the participant\n* Male participants must agree not to donate sperm for the purpose of reproduction during the study and up to 16 weeks after receiving the last dose of study intervention\n\nExclusion Criteria:\n\n* Participants with CDR GS \\>=2 at predose baseline Clinical Dementia Rating (CDR) administration\n* Participants who fulfill diagnostic criteria for Mild Cognitive Impairment (MCI) or dementia/mild or major neurocognitive disorder suspected to be due to any etiology other than AD (example, Parkinson's disease, cerebrovascular disease, normal pressure hydrocephalus, head injury, drug or alcohol abuse/dependence, anoxic brain injury, (Et cetera\\[etc\\])\n* Geriatric Depression Scale (GDS) 30 score greater than (\\>) 12\n* Hachinski Ischemic Scale (HIS) \\>4\n* Has received medications that affect the central nervous system (CNS), except treatments for AD, for less than 2 months; that is, doses of chronic medications that effect the CNS should be stable for at least 2 months before the start of screening. If a participant has recently stopped a chronic medication that effects the CNS, he or she must have discontinued treatment at least 2 months before the start of screening. Chronic use of benzodiazepines is not permitted",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "55 Years",
+      "maximumAge": "80 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Janssen Research & Development, LLC Clinical Trial",
+          "affiliation": "Janssen Research & Development, LLC",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "University of Alabama Birmingham",
+          "city": "Birmingham",
+          "state": "Alabama",
+          "zip": "35233",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.52066,
+            "lon": -86.80249
+          }
+        },
+        {
+          "facility": "Dignity Health",
+          "city": "Phoenix",
+          "state": "Arizona",
+          "zip": "85013",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.44838,
+            "lon": -112.07404
+          }
+        },
+        {
+          "facility": "Irvine Clinical Research",
+          "city": "Irvine",
+          "state": "California",
+          "zip": "92614",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.66946,
+            "lon": -117.82311
+          }
+        },
+        {
+          "facility": "University of California San Diego Medical Center",
+          "city": "La Jolla",
+          "state": "California",
+          "zip": "92037",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.84727,
+            "lon": -117.2742
+          }
+        },
+        {
+          "facility": "University of California - Los Angeles",
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90095",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.05223,
+            "lon": -118.24368
+          }
+        },
+        {
+          "facility": "Stanford University Medical Center",
+          "city": "Palo Alto",
+          "state": "California",
+          "zip": "94304",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 37.44188,
+            "lon": -122.14302
+          }
+        },
+        {
+          "facility": "Pacific Research Network Prn",
+          "city": "San Diego",
+          "state": "California",
+          "zip": "92103",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.71571,
+            "lon": -117.16472
+          }
+        },
+        {
+          "facility": "Syrentis Clinical Research",
+          "city": "Santa Ana",
+          "state": "California",
+          "zip": "92705",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.74557,
+            "lon": -117.86783
+          }
+        },
+        {
+          "facility": "Yale University School Of Medicine",
+          "city": "New Haven",
+          "state": "Connecticut",
+          "zip": "06510",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.30815,
+            "lon": -72.92816
+          }
+        },
+        {
+          "facility": "Georgetown University Hospital",
+          "city": "Washington D.C.",
+          "state": "District of Columbia",
+          "zip": "20057",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.89511,
+            "lon": -77.03637
+          }
+        },
+        {
+          "facility": "JEM Research LLC",
+          "city": "Atlantis",
+          "state": "Florida",
+          "zip": "33462",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 26.5909,
+            "lon": -80.10088
+          }
+        },
+        {
+          "facility": "Brain Matters Research",
+          "city": "Delray Beach",
+          "state": "Florida",
+          "zip": "33445",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 26.46146,
+            "lon": -80.07282
+          }
+        },
+        {
+          "facility": "Neuropsychiatric Research Center of SWFL",
+          "city": "Fort Myers",
+          "state": "Florida",
+          "zip": "33912",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 26.62168,
+            "lon": -81.84059
+          }
+        },
+        {
+          "facility": "Clinical NeuroScience Solutions Inc",
+          "city": "Jacksonville",
+          "state": "Florida",
+          "zip": "32256",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 30.33218,
+            "lon": -81.65565
+          }
+        },
+        {
+          "facility": "Alphab Global Research",
+          "city": "Jupiter",
+          "state": "Florida",
+          "zip": "33458",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 26.93422,
+            "lon": -80.09421
+          }
+        },
+        {
+          "facility": "K2 Medical Research",
+          "city": "Maitland",
+          "state": "Florida",
+          "zip": "32751",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 28.62778,
+            "lon": -81.36312
+          }
+        },
+        {
+          "facility": "Tandem Intermediate LLC",
+          "city": "Maitland",
+          "state": "Florida",
+          "zip": "32751",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 28.62778,
+            "lon": -81.36312
+          }
+        },
+        {
+          "facility": "Merritt Island Medical Research, LLC",
+          "city": "Merritt Island",
+          "state": "Florida",
+          "zip": "32952",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 28.359,
+            "lon": -80.69
+          }
+        },
+        {
+          "facility": "University of Miami Miller School of Medicine",
+          "city": "Miami",
+          "state": "Florida",
+          "zip": "33136",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 25.77427,
+            "lon": -80.19366
+          }
+        },
+        {
+          "facility": "Miami Jewish Health System",
+          "city": "Miami",
+          "state": "Florida",
+          "zip": "33137",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 25.77427,
+            "lon": -80.19366
+          }
+        },
+        {
+          "facility": "Aqualane Clinical Research",
+          "city": "Naples",
+          "state": "Florida",
+          "zip": "34105",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 26.14234,
+            "lon": -81.79596
+          }
+        },
+        {
+          "facility": "Renstar Medical Research",
+          "city": "Ocala",
+          "state": "Florida",
+          "zip": "34470",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.1872,
+            "lon": -82.14009
+          }
+        },
+        {
+          "facility": "Sensible Healthcare",
+          "city": "Ocoee",
+          "state": "Florida",
+          "zip": "34761",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 28.56917,
+            "lon": -81.54396
+          }
+        },
+        {
+          "facility": "Axiom Clinical Research of Florida",
+          "city": "Tampa",
+          "state": "Florida",
+          "zip": "33609",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 27.94752,
+            "lon": -82.45843
+          }
+        },
+        {
+          "facility": "Stedman Clinical Trials",
+          "city": "Tampa",
+          "state": "Florida",
+          "zip": "33613",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 27.94752,
+            "lon": -82.45843
+          }
+        },
+        {
+          "facility": "University of South Florida - Health Byrd Alzheimer Institute",
+          "city": "Tampa",
+          "state": "Florida",
+          "zip": "33613",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 27.94752,
+            "lon": -82.45843
+          }
+        },
+        {
+          "facility": "Charter Research",
+          "city": "The Villages",
+          "state": "Florida",
+          "zip": "32162",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 28.93408,
+            "lon": -81.95994
+          }
+        },
+        {
+          "facility": "ClinCloud Clinical Research",
+          "city": "Viera",
+          "state": "Florida",
+          "zip": "32904",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 28.24696,
+            "lon": -80.737
+          }
+        },
+        {
+          "facility": "Alzheimers Research and Treatment Center",
+          "city": "Wellington",
+          "state": "Florida",
+          "zip": "33414",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 26.65868,
+            "lon": -80.24144
+          }
+        },
+        {
+          "facility": "Palm Beach Neurology and Premier Research Institute",
+          "city": "West Palm Beach",
+          "state": "Florida",
+          "zip": "33407",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 26.71534,
+            "lon": -80.05337
+          }
+        },
+        {
+          "facility": "Conquest Research",
+          "city": "Winter Park",
+          "state": "Florida",
+          "zip": "32789",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 28.6,
+            "lon": -81.33924
+          }
+        },
+        {
+          "facility": "The Emory Clinic",
+          "city": "Atlanta",
+          "state": "Georgia",
+          "zip": "30329",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.749,
+            "lon": -84.38798
+          }
+        },
+        {
+          "facility": "Sandhill Research",
+          "city": "Decatur",
+          "state": "Georgia",
+          "zip": "30030",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.77483,
+            "lon": -84.29631
+          }
+        },
+        {
+          "facility": "Great Lakes Clinical Trials",
+          "city": "Chicago",
+          "state": "Illinois",
+          "zip": "60640",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.85003,
+            "lon": -87.65005
+          }
+        },
+        {
+          "facility": "Alexian Brothers Medical Center - Neuroscience Research Institute",
+          "city": "Elk Grove Village",
+          "state": "Illinois",
+          "zip": "60007",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.00392,
+            "lon": -87.97035
+          }
+        },
+        {
+          "facility": "Indiana University",
+          "city": "Indianapolis",
+          "state": "Indiana",
+          "zip": "46202",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.76838,
+            "lon": -86.15804
+          }
+        },
+        {
+          "facility": "Massachusetts General Hospital",
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02114",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.35843,
+            "lon": -71.05977
+          }
+        },
+        {
+          "facility": "Beth Israel Deaconess Medical Center",
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02215",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.35843,
+            "lon": -71.05977
+          }
+        },
+        {
+          "facility": "Anil Nair dba Alzheimer's Disease Center",
+          "city": "Braintree",
+          "state": "Massachusetts",
+          "zip": "02184",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.20384,
+            "lon": -71.00215
+          }
+        },
+        {
+          "facility": "Hattiesburg Clinic",
+          "city": "Hattiesburg",
+          "state": "Mississippi",
+          "zip": "39401",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 31.32712,
+            "lon": -89.29034
+          }
+        },
+        {
+          "facility": "Washington University School Of Medicine",
+          "city": "St Louis",
+          "state": "Missouri",
+          "zip": "63110",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.62727,
+            "lon": -90.19789
+          }
+        },
+        {
+          "facility": "NeuroCognitive Institute",
+          "city": "Mount Arlington",
+          "state": "New Jersey",
+          "zip": "07856",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.92593,
+            "lon": -74.63488
+          }
+        },
+        {
+          "facility": "Princeton Medical Institute",
+          "city": "Princeton",
+          "state": "New Jersey",
+          "zip": "08540",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.34872,
+            "lon": -74.65905
+          }
+        },
+        {
+          "facility": "Advanced Memory Research Institute of NJ",
+          "city": "Toms River",
+          "state": "New Jersey",
+          "zip": "08755",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.95373,
+            "lon": -74.19792
+          }
+        },
+        {
+          "facility": "Neurological Associates of Albany, PC",
+          "city": "Albany",
+          "state": "New York",
+          "zip": "12208",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.65258,
+            "lon": -73.75623
+          }
+        },
+        {
+          "facility": "Velocity Clinical Research",
+          "city": "East Syracuse",
+          "state": "New York",
+          "zip": "13057",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 43.06534,
+            "lon": -76.07853
+          }
+        },
+        {
+          "facility": "New York University Medical Center",
+          "city": "New York",
+          "state": "New York",
+          "zip": "10016",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.71427,
+            "lon": -74.00597
+          }
+        },
+        {
+          "facility": "Wake Forest Health Sciences",
+          "city": "Winston-Salem",
+          "state": "North Carolina",
+          "zip": "27157",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 36.09986,
+            "lon": -80.24422
+          }
+        },
+        {
+          "facility": "Cleveland Clinic Lou Revo Center for Brain Health",
+          "city": "Cleveland",
+          "state": "Ohio",
+          "zip": "44195",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.4995,
+            "lon": -81.69541
+          }
+        },
+        {
+          "facility": "Wexner Medical Center at the Ohio State University",
+          "city": "Columbus",
+          "state": "Ohio",
+          "zip": "43221",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.96118,
+            "lon": -82.99879
+          }
+        },
+        {
+          "facility": "Keystone Clinical Studies LLC",
+          "city": "Plymouth Meeting",
+          "state": "Pennsylvania",
+          "zip": "19462",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.10233,
+            "lon": -75.27435
+          }
+        },
+        {
+          "facility": "Brown University School of Medicine",
+          "city": "Providence",
+          "state": "Rhode Island",
+          "zip": "02906",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.82399,
+            "lon": -71.41283
+          }
+        },
+        {
+          "facility": "The University of Texas Health Science Center at Houston",
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77054",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.76328,
+            "lon": -95.36327
+          }
+        },
+        {
+          "facility": "Memory Clinic Inc",
+          "city": "Bennington",
+          "state": "Vermont",
+          "zip": "05201",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.87813,
+            "lon": -73.19677
+          }
+        },
+        {
+          "facility": "University of Virginia",
+          "city": "Charlottesville",
+          "state": "Virginia",
+          "zip": "22903",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.02931,
+            "lon": -78.47668
+          }
+        },
+        {
+          "facility": "Royal Adelaide Hospital",
+          "city": "Adelaide",
+          "zip": "5000",
+          "country": "Australia",
+          "geoPoint": {
+            "lat": -34.92866,
+            "lon": 138.59863
+          }
+        },
+        {
+          "facility": "Box Hill Hospital",
+          "city": "Box Hill",
+          "zip": "3128",
+          "country": "Australia",
+          "geoPoint": {
+            "lat": -37.81887,
+            "lon": 145.12545
+          }
+        },
+        {
+          "facility": "Neuro Trials Victoria",
+          "city": "Carlton",
+          "zip": "3053",
+          "country": "Australia",
+          "geoPoint": {
+            "lat": -37.8,
+            "lon": 144.96667
+          }
+        },
+        {
+          "facility": "Austin Health",
+          "city": "Ivanhoe",
+          "zip": "3079",
+          "country": "Australia",
+          "geoPoint": {
+            "lat": -37.76903,
+            "lon": 145.04308
+          }
+        },
+        {
+          "facility": "HammondCare Neurodegenerative Clinical Trials - VIC",
+          "city": "Malvern",
+          "zip": "3144",
+          "country": "Australia",
+          "geoPoint": {
+            "lat": -37.86259,
+            "lon": 145.02811
+          }
+        },
+        {
+          "facility": "Australian Alzheimer's Research Foundation Incorporated",
+          "city": "Nedlands",
+          "zip": "6009",
+          "country": "Australia",
+          "geoPoint": {
+            "lat": -31.98184,
+            "lon": 115.8073
+          }
+        },
+        {
+          "facility": "Royal Melbourne Hospital",
+          "city": "Parkville",
+          "zip": "3050",
+          "country": "Australia",
+          "geoPoint": {
+            "lat": -37.78333,
+            "lon": 144.95
+          }
+        },
+        {
+          "facility": "AZ St.-Jan Brugge-Oostende AV",
+          "city": "Bruges",
+          "zip": "8000",
+          "country": "Belgium",
+          "geoPoint": {
+            "lat": 51.20892,
+            "lon": 3.22424
+          }
+        },
+        {
+          "facility": "UCL Hopital Saint-Luc",
+          "city": "Brussels",
+          "zip": "1200",
+          "country": "Belgium",
+          "geoPoint": {
+            "lat": 50.85045,
+            "lon": 4.34878
+          }
+        },
+        {
+          "facility": "UZ Antwerpen",
+          "city": "Edegem",
+          "zip": "2650",
+          "country": "Belgium",
+          "geoPoint": {
+            "lat": 51.15662,
+            "lon": 4.44504
+          }
+        },
+        {
+          "facility": "Universitair Ziekenhuis Gent",
+          "city": "Ghent",
+          "zip": "9000",
+          "country": "Belgium",
+          "geoPoint": {
+            "lat": 51.05,
+            "lon": 3.71667
+          }
+        },
+        {
+          "facility": "Jessa Ziekenhuis",
+          "city": "Hasselt",
+          "zip": "3500",
+          "country": "Belgium",
+          "geoPoint": {
+            "lat": 50.93106,
+            "lon": 5.33781
+          }
+        },
+        {
+          "facility": "UZ Brussel",
+          "city": "Jette",
+          "zip": "1090",
+          "country": "Belgium",
+          "geoPoint": {
+            "lat": 50.87309,
+            "lon": 4.33419
+          }
+        },
+        {
+          "facility": "UZ Leuven",
+          "city": "Leuven",
+          "zip": "3000",
+          "country": "Belgium",
+          "geoPoint": {
+            "lat": 50.87959,
+            "lon": 4.70093
+          }
+        },
+        {
+          "facility": "Algemeen Ziekenhuis Delta",
+          "city": "Roeselare",
+          "zip": "8800",
+          "country": "Belgium",
+          "geoPoint": {
+            "lat": 50.94653,
+            "lon": 3.12269
+          }
+        },
+        {
+          "facility": "Parkwood Institute",
+          "city": "London",
+          "state": "Ontario",
+          "zip": "N6C 0A7",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 42.98339,
+            "lon": -81.23304
+          }
+        },
+        {
+          "facility": "Kawartha Centre - Redefining Healthy Aging",
+          "city": "Peterborough",
+          "state": "Ontario",
+          "zip": "K9H 2P4",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 44.30012,
+            "lon": -78.31623
+          }
+        },
+        {
+          "facility": "Toronto Memory Program (Neurology Research Inc.)",
+          "city": "Toronto",
+          "state": "Ontario",
+          "zip": "M3B 257",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 43.70643,
+            "lon": -79.39864
+          }
+        },
+        {
+          "facility": "UHN-Toronto Western Hospital",
+          "city": "Toronto",
+          "state": "Ontario",
+          "zip": "M5T 2S8",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 43.70643,
+            "lon": -79.39864
+          }
+        },
+        {
+          "facility": "McGill University",
+          "city": "Montreal",
+          "state": "Quebec",
+          "zip": "H3A 2B4",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 45.50884,
+            "lon": -73.58781
+          }
+        },
+        {
+          "facility": "Hopital Pellegrin CHU Bordeaux",
+          "city": "Bordeaux",
+          "zip": "33076",
+          "country": "France",
+          "geoPoint": {
+            "lat": 44.84124,
+            "lon": -0.58046
+          }
+        },
+        {
+          "facility": "Hopital Roger Salengro - CHU Lille",
+          "city": "Lille",
+          "zip": "59037",
+          "country": "France",
+          "geoPoint": {
+            "lat": 50.63391,
+            "lon": 3.05512
+          }
+        },
+        {
+          "facility": "CHU Nantes - Hopital Nord Laënnec",
+          "city": "Nantes",
+          "zip": "44093",
+          "country": "France",
+          "geoPoint": {
+            "lat": 47.21725,
+            "lon": -1.55336
+          }
+        },
+        {
+          "facility": "Hopital Lariboisiere-Fernand Widal",
+          "city": "Paris",
+          "zip": "75010",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.85341,
+            "lon": 2.3488
+          }
+        },
+        {
+          "facility": "Hopital Pitie Salpetriere",
+          "city": "Paris",
+          "zip": "75013",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.85341,
+            "lon": 2.3488
+          }
+        },
+        {
+          "facility": "Chu Rennes Hopital Pontchaillou",
+          "city": "Rennes",
+          "zip": "35009",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.11109,
+            "lon": -1.67431
+          }
+        },
+        {
+          "facility": "Hopital Charles Nicolle",
+          "city": "Rouen",
+          "zip": "76031",
+          "country": "France",
+          "geoPoint": {
+            "lat": 49.44313,
+            "lon": 1.09932
+          }
+        },
+        {
+          "facility": "CHU Toulouse - Hôpital La Grave",
+          "city": "Toulouse",
+          "zip": "31059",
+          "country": "France",
+          "geoPoint": {
+            "lat": 43.60426,
+            "lon": 1.44367
+          }
+        },
+        {
+          "facility": "Hôpital Bretonneau",
+          "city": "Tours",
+          "zip": "37000",
+          "country": "France",
+          "geoPoint": {
+            "lat": 47.39484,
+            "lon": 0.70398
+          }
+        },
+        {
+          "facility": "Takeda General Hospital",
+          "city": "Aizu-Wakamatsu",
+          "zip": "965-8585",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 37.49142,
+            "lon": 139.94546
+          }
+        },
+        {
+          "facility": "Inage Neurology and Memory Clinic",
+          "city": "Chiba",
+          "zip": "263-0043",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 35.6,
+            "lon": 140.11667
+          }
+        },
+        {
+          "facility": "Kawashima Neurology Clinic",
+          "city": "Fujisawa-shi",
+          "zip": "251-0038",
+          "country": "Japan"
+        },
+        {
+          "facility": "Fukuoka University Hospital",
+          "city": "Fukuoka",
+          "zip": "814-0180",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 33.6,
+            "lon": 130.41667
+          }
+        },
+        {
+          "facility": "Keikokai P-One Clinic",
+          "city": "Hachiōji",
+          "zip": "192-0071",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 35.65583,
+            "lon": 139.32389
+          }
+        },
+        {
+          "facility": "Himeji Central Hospital Clinic",
+          "city": "Himeji",
+          "zip": "672-8043",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 34.81667,
+            "lon": 134.7
+          }
+        },
+        {
+          "facility": "Shonan Kamakura General Hospital",
+          "city": "Kamakura-shi",
+          "zip": "247-8533",
+          "country": "Japan"
+        },
+        {
+          "facility": "National Hospital Organization Hizen Psychiatric Center",
+          "city": "Kanzaki-gun",
+          "zip": "842-0192",
+          "country": "Japan"
+        },
+        {
+          "facility": "Koukan Clinic",
+          "city": "Kawasaki",
+          "zip": "210-0852",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 35.52056,
+            "lon": 139.71722
+          }
+        },
+        {
+          "facility": "Kobe City Medical Center General Hospital",
+          "city": "Kobe",
+          "zip": "650-0047",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 34.6913,
+            "lon": 135.183
+          }
+        },
+        {
+          "facility": "Rijikai Medical Corporation Katayama Medical Clinic",
+          "city": "Kurashiki-shi",
+          "zip": "7100813",
+          "country": "Japan"
+        },
+        {
+          "facility": "Kurume University Hospital",
+          "city": "Kurume",
+          "zip": "830-0011",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 33.31667,
+            "lon": 130.51667
+          }
+        },
+        {
+          "facility": "Rakuwakai Otowa Hospital",
+          "city": "Kyoto",
+          "zip": "607-8062",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 35.02107,
+            "lon": 135.75385
+          }
+        },
+        {
+          "facility": "Rakuwakai Otowa Rehabilitation Hospital",
+          "city": "Kyoto",
+          "zip": "607-8113",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 35.02107,
+            "lon": 135.75385
+          }
+        },
+        {
+          "facility": "Saiseikai Narashino Hospital",
+          "city": "Narashino",
+          "zip": "275-0006",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 35.68184,
+            "lon": 140.04152
+          }
+        },
+        {
+          "facility": "National Center For Geriatrics And Gerontology",
+          "city": "Obu-shi",
+          "zip": "474-8511",
+          "country": "Japan"
+        },
+        {
+          "facility": "Clinical Research Hospital Tokyo",
+          "city": "Shinjuku-ku",
+          "zip": "162-0053",
+          "country": "Japan"
+        },
+        {
+          "facility": "Tokyo Medical University Hospital",
+          "city": "Tokyo",
+          "zip": "160-0023",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 35.6895,
+            "lon": 139.69171
+          }
+        },
+        {
+          "facility": "Tokyo Metropolitan Geriatric Hospital",
+          "city": "Tokyo",
+          "zip": "173-0015",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 35.6895,
+            "lon": 139.69171
+          }
+        },
+        {
+          "facility": "Nagomi Clinic",
+          "city": "Toyonaka-shi",
+          "zip": "560-0004",
+          "country": "Japan"
+        },
+        {
+          "facility": "Jinsenkai MI Clinic",
+          "city": "Toyonaka-shi",
+          "zip": "5600004",
+          "country": "Japan"
+        },
+        {
+          "facility": "Yokohama Brain and Spine Center",
+          "city": "Yokohama",
+          "zip": "235-0012",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 35.43333,
+            "lon": 139.65
+          }
+        },
+        {
+          "facility": "BRC - Den Bosch",
+          "city": "'s-Hertogenbosch",
+          "zip": "5223 LA",
+          "country": "Netherlands",
+          "geoPoint": {
+            "lat": 51.69917,
+            "lon": 5.30417
+          }
+        },
+        {
+          "facility": "BRC - Amsterdam",
+          "city": "Amsterdam",
+          "zip": "1081 GN",
+          "country": "Netherlands",
+          "geoPoint": {
+            "lat": 52.37403,
+            "lon": 4.88969
+          }
+        },
+        {
+          "facility": "QPS Netherlands",
+          "city": "Leeuwarden",
+          "zip": "8934AD",
+          "country": "Netherlands",
+          "geoPoint": {
+            "lat": 53.20271,
+            "lon": 5.80973
+          }
+        },
+        {
+          "facility": "BRC Zwolle",
+          "city": "Zwolle",
+          "zip": "8052 AZ",
+          "country": "Netherlands",
+          "geoPoint": {
+            "lat": 52.5125,
+            "lon": 6.09444
+          }
+        },
+        {
+          "facility": "Centro At. Esp. Oroitu",
+          "city": "Algorta - Getxo",
+          "zip": "48993",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hosp. Del Mar",
+          "city": "Barcelona",
+          "zip": "08003",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.38879,
+            "lon": 2.15899
+          }
+        },
+        {
+          "facility": "Hosp. de La Santa Creu I Sant Pau",
+          "city": "Barcelona",
+          "zip": "08025",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.38879,
+            "lon": 2.15899
+          }
+        },
+        {
+          "facility": "Fund. Ace-Inst. Cat. Neuroc. Aplicades",
+          "city": "Barcelona",
+          "zip": "08028",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.38879,
+            "lon": 2.15899
+          }
+        },
+        {
+          "facility": "Idc Salud Hosp. Gral. de Catalunya",
+          "city": "Barcelona",
+          "zip": "08195",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.38879,
+            "lon": 2.15899
+          }
+        },
+        {
+          "facility": "Hosp. Univ. Santa Maria",
+          "city": "Lleida",
+          "zip": "25198",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.61674,
+            "lon": 0.62218
+          }
+        },
+        {
+          "facility": "Hosp. Clinico San Carlos",
+          "city": "Madrid",
+          "zip": "28040",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 40.4165,
+            "lon": -3.70256
+          }
+        },
+        {
+          "facility": "Hosp. Mutua Terrassa",
+          "city": "Terrassa",
+          "zip": "08221",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.56667,
+            "lon": 2.01667
+          }
+        },
+        {
+          "facility": "Hosp. Univ. I Politecni La Fe",
+          "city": "Valencia",
+          "zip": "46026",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 39.47391,
+            "lon": -0.37966
+          }
+        },
+        {
+          "facility": "Karolinska Universitetssjukhuset",
+          "city": "Stockholm",
+          "zip": "14186",
+          "country": "Sweden",
+          "geoPoint": {
+            "lat": 59.32938,
+            "lon": 18.06871
+          }
+        },
+        {
+          "facility": "Royal United Hospital",
+          "city": "Bath",
+          "zip": "BA1 3NG",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 51.3751,
+            "lon": -2.36172
+          }
+        },
+        {
+          "facility": "Charing Cross Hospital",
+          "city": "London",
+          "zip": "W6 8RF",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 51.50853,
+            "lon": -0.12574
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "The data sharing policy of the Janssen Pharmaceutical Companies of Johnson \\& Johnson is available at www.janssen.com/clinical-trials/transparency. As noted on this site, requests for access to the study data can be submitted through Yale Open Data Access (YODA) Project site at yoda.yale.edu",
+      "url": "https://www.janssen.com/clinical-trials/transparency"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-12"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000544",
+          "term": "Alzheimer Disease"
+        },
+        {
+          "id": "D060825",
+          "term": "Cognitive Dysfunction"
+        },
+        {
+          "id": "D003704",
+          "term": "Dementia"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D001927",
+          "term": "Brain Diseases"
+        },
+        {
+          "id": "D002493",
+          "term": "Central Nervous System Diseases"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D024801",
+          "term": "Tauopathies"
+        },
+        {
+          "id": "D019636",
+          "term": "Neurodegenerative Diseases"
+        },
+        {
+          "id": "D019965",
+          "term": "Neurocognitive Disorders"
+        },
+        {
+          "id": "D001523",
+          "term": "Mental Disorders"
+        },
+        {
+          "id": "D003072",
+          "term": "Cognition Disorders"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

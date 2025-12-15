@@ -1,0 +1,297 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04828122",
+      "orgStudyIdInfo": {
+        "id": "NOV-0100"
+      },
+      "organization": {
+        "fullName": "Novoic Limited",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "Amyloid Prediction in Early Stage Alzheimer's Disease From Acoustic and Linguistic Patterns of Speech",
+      "officialTitle": "A Study to Evaluate the Ability of Speech- and Language-based Digital Biomarkers to Detect and Characterise Prodromal and Preclinical Alzheimer's Disease in a Clinical Setting",
+      "acronym": "AMYPRED"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2021-03",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2020-11-19",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2021-08-06",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2021-08-06",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2021-03-26",
+      "studyFirstSubmitQcDate": "2021-03-30",
+      "studyFirstPostDateStruct": {
+        "date": "2021-04-01",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2021-09-03",
+      "lastUpdatePostDateStruct": {
+        "date": "2021-09-05",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Novoic Limited",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The primary objective of the study is to evaluate whether a set of algorithms analysing acoustic and linguistic patterns of speech can detect amyloid-specific cognitive impairment in early stage Alzheimer's disease, as measured by the AUC of the receiver operating characteristic (ROC) curve of the binary classifier distinguishing between amyloid positive (Arms 1 and 3) and amyloid negative (Arms 2 and 4) Arms. Secondary objectives include (1) evaluating whether similar algorithms can detect amyloid-specific cognitive impairment in the cognitively normal (CN) and MCI Arms respectively, as measured on binary classifier performance; (2) whether they can detect MCI, as measured on binary classifier performance (AUC, sensitivity, specificity, Cohen's kappa), and the agreement between the PACC5 composite and the corresponding regression model predicting it in all Arms pooled (Wilcoxon signed-rank test, CIA); (3) evaluating variables that can impact performance of such algorithms of covariates from the speaker (age, gender, education level) and environment (measures of acoustic quality)."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Alzheimer Disease",
+        "Preclinical Alzheimer's Disease",
+        "Prodromal Alzheimer's Disease",
+        "Alzheimer's Disease (Incl Subtypes)",
+        "Mild Cognitive Impairment"
+      ],
+      "keywords": [
+        "Alzheimer's disease",
+        "Preclinical Alzheimer's disease",
+        "Prodromal Alzheimer's disease",
+        "Mild Cognitive Impairment",
+        "Normal Cognition",
+        "Amyloid",
+        "Speech",
+        "Acoustic",
+        "Language",
+        "Linguistic",
+        "Machine Learning",
+        "Artificial Intelligence"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": true,
+      "targetDuration": "2 Weeks",
+      "designInfo": {
+        "observationalModel": "CASE_CONTROL",
+        "timePerspective": "CROSS_SECTIONAL"
+      },
+      "enrollmentInfo": {
+        "count": 141,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Arm 1: MCI amyloid positive",
+          "description": "1. Meet the National Institute of Aging - Alzheimer's Association (NIA-AA) core clinical criteria (2011) for MCI due to Alzheimer's or Mild Alzheimer's Dementia\n2. Positive amyloid PET or amyloid CSF status.\n3. MMSE 23-30 (inclusive)"
+        },
+        {
+          "label": "Arm 2: MCI amyloid negative",
+          "description": "1. Non-AD Mild Cognitive Impairment (MCI)\n2. Negative amyloid PET or amyloid CSF status.\n3. MMSE 23-30 (inclusive)"
+        },
+        {
+          "label": "Arm 3: CN amyloid positive",
+          "description": "1. Absence of a diagnosis of cognitive disorder and/or subjectively reported cognitive decline\n2. Positive amyloid PET or amyloid CSF status.\n3. MMSE 26-30 (inclusive)"
+        },
+        {
+          "label": "Arm 4: CN amyloid negative",
+          "description": "1. Absence of a diagnosis of cognitive disorder and/or subjectively reported cognitive decline\n2. Negative amyloid PET or amyloid CSF status.\n3. MMSE 26-30 (inclusive)"
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "The area under the curve (AUC) of the receiver operating characteristic (ROC) curve of the binary classifier distinguishing between amyloid positive (Arms 1 and 3) and amyloid negative (Arms 2 and 4) Arms using speech recordings as input.",
+          "timeFrame": "baseline"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "The sensitivity, specificity and Cohen's kappa of the binary classifier distinguishing between amyloid positive (Arms 1 and 3) and amyloid negative (Arms 2 and 4) Arms.",
+          "timeFrame": "baseline"
+        },
+        {
+          "measure": "The AUC, sensitivity, specificity and Cohen's kappa of the binary classifier distinguishing between amyloid positive cognitively normal (CN) (Arm 3) and amyloid negative cognitively normal (CN) (Arm 4) Arms.",
+          "timeFrame": "baseline"
+        },
+        {
+          "measure": "The AUC, sensitivity, specificity and Cohen's kappa of the binary classifier distinguishing between amyloid positive MCI (Arm 1) and amyloid negative MCI (Arm 2) Arms.",
+          "timeFrame": "baseline"
+        },
+        {
+          "measure": "The AUC, sensitivity, specificity and Cohen's kappa of the binary classifier distinguishing between the MCI (Arms 1 and 2) and the CN (Arms 3 and 4) Arms.",
+          "timeFrame": "baseline"
+        },
+        {
+          "measure": "The agreement between the PACC5 composite and the corresponding regression model predicting it in all four Arms, as measured by the coefficient of individual agreement (CIA).",
+          "timeFrame": "baseline"
+        },
+        {
+          "measure": "For each classifier/regressor in outcome 1-6, the correlation between the AUC/CIA and each age group, gender and speech-to-reverberation modulation energy ratio group, as measured by the Kendall rank correlation coefficient.",
+          "timeFrame": "baseline"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Amyloid status must be known, based on an amyloid PET scan or CSF amyloid test, no older than 30 months at the time of consent for Arm 2 and Arm 4 participants (amyloid negative Arms).\n* Amyloid status must be known, based on an amyloid PET scan or CSF amyloid test, no older than 60 months at the time of consent for Arm 1 and Arm 3 (amyloid positive Arms).\n* Subjects must be aged 50-85 (inclusive).\n* Subjects must have MMSE scores of 23-30 (inclusive) based on a test not older than 1 month at the time of the visit.\n* Date of diagnosis (if applicable) maximum of five years prior to consent.\n* Subjects' first language must be English.\n* Willing to participate in a study investigating speech and Alzheimer's disease.\n* Availability of a person ('caregiver') who in the investigator's judgment has frequent and sufficient in-person contact with the participant, and is able to provide accurate information regarding the participant's cognitive and functional abilities. This is most likely met when living with a caregiver.\n* Able to provide valid informed consent\n* Able to use, or has a caregiver who is able to use a smartphone device.\n* Has access to a smartphone device running an operation system of Android 7 or above; or iOS 11 or above.\n\nIf taking part in the study through virtual visits, the following inclusion criteria also applies:\n\n* Able to use, or has a caregiver who is able to use a personal computer, notebook or tablet.\n* Has access to a personal computing device of that is running an operating system of macOS X with macOS 10.9 or later, or Windows 7 or above, or Ubuntu 12.04 or higher; OR has access internet browser software Internet Explorer version 11 or above; or Microsoft Edge version 12 or above, or Firefox version 27 or above, or Google Chrome version 30 or above, or Safari version 7 or above; AND capable of audio and video recording; AND able to connect to the internet.\n\nExclusion Criteria:\n\n* Clinically significant unstable psychiatric illness in 6 months.\n* Diagnosis of Generalised Anxiety Disorder (GAD).\n* Diagnosis of Major Depressive Disorder (MDD).\n* History or presence of stroke within the past 2 years.\n* Documented history of transient ischemic attack or unexplained loss of consciousness within the last 12 months.\n* The participant is using drugs to treat symptoms related to AD, and the doses of these drugs were not stable for at least 8 weeks prior to consent.",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "50 Years",
+      "maximumAge": "85 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "All participants of the study are based in the UK.",
+      "samplingMethod": "NON_PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Emil Fristed, MSc",
+          "affiliation": "Novoic Limited",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Re:Cognition Health",
+          "city": "Birmingham",
+          "zip": "B16 8LT",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 52.48142,
+            "lon": -1.89983
+          }
+        },
+        {
+          "facility": "Re:Cognition Health",
+          "city": "Guildford",
+          "zip": "GU2 7YD",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 51.23536,
+            "lon": -0.57427
+          }
+        },
+        {
+          "facility": "Re:Cognition Health",
+          "city": "London",
+          "zip": "W1G 9JF",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 51.50853,
+            "lon": -0.12574
+          }
+        },
+        {
+          "facility": "Re:Cognition Health",
+          "city": "Plymouth",
+          "zip": "PL68BT",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 50.37153,
+            "lon": -4.14305
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "UNDECIDED"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-12"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000544",
+          "term": "Alzheimer Disease"
+        },
+        {
+          "id": "D060825",
+          "term": "Cognitive Dysfunction"
+        },
+        {
+          "id": "D013060",
+          "term": "Speech"
+        },
+        {
+          "id": "D007802",
+          "term": "Language"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D003704",
+          "term": "Dementia"
+        },
+        {
+          "id": "D001927",
+          "term": "Brain Diseases"
+        },
+        {
+          "id": "D002493",
+          "term": "Central Nervous System Diseases"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D024801",
+          "term": "Tauopathies"
+        },
+        {
+          "id": "D019636",
+          "term": "Neurodegenerative Diseases"
+        },
+        {
+          "id": "D019965",
+          "term": "Neurocognitive Disorders"
+        },
+        {
+          "id": "D001523",
+          "term": "Mental Disorders"
+        },
+        {
+          "id": "D003072",
+          "term": "Cognition Disorders"
+        },
+        {
+          "id": "D014705",
+          "term": "Verbal Behavior"
+        },
+        {
+          "id": "D003142",
+          "term": "Communication"
+        },
+        {
+          "id": "D001519",
+          "term": "Behavior"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

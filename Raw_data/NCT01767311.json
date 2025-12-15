@@ -1,0 +1,2116 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT01767311",
+      "orgStudyIdInfo": {
+        "id": "BAN2401-G000-201"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "2012-002843-11",
+          "type": "EUDRACT_NUMBER"
+        }
+      ],
+      "organization": {
+        "fullName": "Eisai Inc.",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Study to Evaluate Safety, Tolerability, and Efficacy of Lecanemab in Subjects With Early Alzheimer's Disease",
+      "officialTitle": "A Placebo-Controlled, Double-Blind, Parallel-Group, Bayesian Adaptive Randomization Design and Dose Regimen-finding Study With an Open-Label Extension Phase to Evaluate Safety, Tolerability and Efficacy of BAN2401 in Subjects With Early Alzheimer's Disease"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-01",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2012-12-20",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-12-10",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-12-10",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2013-01-08",
+      "studyFirstSubmitQcDate": "2013-01-10",
+      "studyFirstPostDateStruct": {
+        "date": "2013-01-14",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2025-01-21",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-01-22",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Eisai Inc.",
+        "class": "INDUSTRY"
+      },
+      "collaborators": [
+        {
+          "name": "Biogen",
+          "class": "INDUSTRY"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This is a multinational, multicenter, double-blind, placebo-controlled, parallel-group study using a Bayesian design with response adaptive randomization across placebo or 5 active arms of lecanemab to determine clinical efficacy and to explore the dose response of lecanemab using a composite clinical score (ADCOMS). BAN2401-G000-201 Core study is an 18-month study in which 3 dose levels (2.5, 5, and 10 mg/kg) are given biweekly (once every 2 weeks) to separate groups of participants and 2 dose levels (5 and 10 mg/kg) are given monthly (once every 4 weeks) to separate groups of participants. Participants will be from 2 clinical subgroups: mild cognitive impairment (MCI) due to Alzheimer's disease (AD) or mild Alzheimer's disease dementia. Frequent interim analyses will be conducted to continually update randomization allocation on the basis of the primary clinical endpoint. Any participant who completes the study treatment (Visit 42 \\[Week 79\\] of the Core study) or discontinues the Core Study will be eligible to participate in the Extension Phase, provided they meet the Extension Phase inclusion and exclusion criteria. Participants will receive 10 mg/kg biweekly for up to 60 months or until the drug is commercially available in the country, where the subject resides, or until the benefit-to-risk ratio from treatment with lecanemab is no longer considered favorable, whichever comes first. The Follow-up Visit in the Extension Phase will take place 3 months after the last dose of study drug."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Alzheimer's Disease"
+      ],
+      "keywords": [
+        "Alzheimer's Disease",
+        "BAN2401",
+        "Lecanemab"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "TRIPLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 856,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Core Study: Lecanemab 2.5 mg/kg biweekly",
+          "type": "EXPERIMENTAL",
+          "description": "2.5 mg/kg biweekly",
+          "interventionNames": [
+            "Drug: Lecanemab 2.5 mg/kg"
+          ]
+        },
+        {
+          "label": "Core Study: Lecanemab 5.0 mg/kg biweekly",
+          "type": "EXPERIMENTAL",
+          "description": "5.0 mg/kg biweekly",
+          "interventionNames": [
+            "Drug: Lecanemab 5.0 mg/kg"
+          ]
+        },
+        {
+          "label": "Core Study: Lecanemab 10 mg/kg biweekly",
+          "type": "EXPERIMENTAL",
+          "description": "10 mg/kg biweekly",
+          "interventionNames": [
+            "Drug: Lecanemab 10 mg/kg"
+          ]
+        },
+        {
+          "label": "Core Study: Lecanemab 5.0 mg/kg monthly",
+          "type": "EXPERIMENTAL",
+          "description": "5.0 mg/kg monthly",
+          "interventionNames": [
+            "Drug: Lecanemab 5.0 mg/kg"
+          ]
+        },
+        {
+          "label": "Core Study: Lecanemab 10 mg/kg monthly",
+          "type": "EXPERIMENTAL",
+          "description": "10 mg/kg monthly",
+          "interventionNames": [
+            "Drug: Lecanemab 10 mg/kg"
+          ]
+        },
+        {
+          "label": "Core Study: Lecanemab-matched Placebo",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "Matching placebo biweekly",
+          "interventionNames": [
+            "Drug: Placebo"
+          ]
+        },
+        {
+          "label": "Extension Phase: Lecanemab 10 mg/kg",
+          "type": "EXPERIMENTAL",
+          "description": "All participants who fulfill Extension Phase inclusion and exclusion criteria will have the option to participate in the Extension Phase to receive lecanemab 10 mg/kg biweekly for up to 60 months or until the benefit-to-risk ratio from treatment with lecanemab is no longer considered favorable, whichever comes first. Additionally, participants who have received Extension Phase treatment for at least 18 months may opt to enter the dosing regimen substudy during which they will receive either lecanemab 10 mg/kg once every 4 weeks (Q4W) or once every 3 months (Q3M).",
+          "interventionNames": [
+            "Drug: Lecanemab 10 mg/kg"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Lecanemab 2.5 mg/kg",
+          "description": "2.5 mg/kg biweekly (once every 2 weeks) administered as i.v. infusion",
+          "armGroupLabels": [
+            "Core Study: Lecanemab 2.5 mg/kg biweekly"
+          ],
+          "otherNames": [
+            "BAN2401"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Lecanemab 5.0 mg/kg",
+          "description": "5.0 mg/kg biweekly (once every 2 weeks) administered as i.v. infusion",
+          "armGroupLabels": [
+            "Core Study: Lecanemab 5.0 mg/kg biweekly"
+          ],
+          "otherNames": [
+            "BAN2401"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Lecanemab 10 mg/kg",
+          "description": "10 mg/kg biweekly (once every 2 weeks) administered as i.v. infusion.",
+          "armGroupLabels": [
+            "Core Study: Lecanemab 10 mg/kg biweekly"
+          ],
+          "otherNames": [
+            "BAN2401"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Lecanemab 5.0 mg/kg",
+          "description": "5.0 mg/kg monthly (once every 4 weeks) administered as i.v. infusion. All participants will receive biweekly infusions, participants will have placebo infusion alternating with BAN2401",
+          "armGroupLabels": [
+            "Core Study: Lecanemab 5.0 mg/kg monthly"
+          ],
+          "otherNames": [
+            "BAN2401"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Lecanemab 10 mg/kg",
+          "description": "10 mg/kg monthly (once every 4 weeks) administered as i.v. infusion. All participants will receive biweekly infusions, participants will have placebo infusion alternating with BAN2401",
+          "armGroupLabels": [
+            "Core Study: Lecanemab 10 mg/kg monthly"
+          ],
+          "otherNames": [
+            "BAN2401"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo",
+          "description": "biweekly (once every 2 weeks) administered as i.v. infusion",
+          "armGroupLabels": [
+            "Core Study: Lecanemab-matched Placebo"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Lecanemab 10 mg/kg",
+          "description": "10 mg/kg biweekly (once every 2 weeks), once every 4 weeks (Q4W) or once every 3 months (Q3M) i.v. infusion.",
+          "armGroupLabels": [
+            "Extension Phase: Lecanemab 10 mg/kg"
+          ],
+          "otherNames": [
+            "BAN2401"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Core Study: Change from Baseline in the Alzheimer's Disease Composite Score (ADCOMS) at 12 months",
+          "timeFrame": "Baseline and 12 months"
+        },
+        {
+          "measure": "Core Study and Extension Phase: Safety will be assessed by monitoring and recording all adverse events (AEs) and serious adverse events (SAEs)",
+          "description": "Safety assessments will consist of monitoring and recording all AEs and SAEs; regular monitoring of hematology, blood chemistry, and urine values; periodic measurement of vital signs and electrocardiograms (ECGs); safety magnetic resonance imaging (MRI); and performance of physical examinations.",
+          "timeFrame": "From the time the participant signs the informed consent form until 3 months after the last dose of study drug or through the last visit, whichever is longer; up to 78 months"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Core Study: Change from Baseline at 18 Months in Brain Amyloid Pathophysiology as Measured by Amyloid Positron Emission Tomography (PET)",
+          "timeFrame": "Baseline and 18 Months"
+        },
+        {
+          "measure": "Core Study: Change from Baseline in the ADCOMS at 18 Months",
+          "timeFrame": "Baseline and 18 Months"
+        },
+        {
+          "measure": "Core Study: Change from Baseline in Clinical Dementia Rating - Sum of Boxes (CDR-SB) at 18 Months",
+          "timeFrame": "Baseline and 18 Months"
+        },
+        {
+          "measure": "Core Study: Change from Baseline in Alzheimer Disease Assessment Scale - Cognitive Subscale (ADAS-cog) at 18 Months",
+          "timeFrame": "Baseline and 18 Months"
+        },
+        {
+          "measure": "Core Study: Change from Baseline in Cerebrospinal fluid (CSF) Biomarkers (Aβ[1-42], t-tau, and p-tau) at 18 Months",
+          "timeFrame": "Baseline and 18 Months"
+        },
+        {
+          "measure": "Core Study: Change from Baseline in Total Hippocampal Volume at 18 Months as Measured by Volumetric Magnetic Resonance Imaging (vMRI)",
+          "timeFrame": "Baseline and 18 months"
+        },
+        {
+          "measure": "Core Study: Change from Baseline at 12 Months in Brain Amyloid Pathophysiology as Measured by Amyloid PET",
+          "timeFrame": "Baseline and 12 Months"
+        },
+        {
+          "measure": "Core Study: Change from baseline at 12 months on clinical status for the following assessments: ADCOMS, CDR-SB, and ADAS-cog",
+          "timeFrame": "Baseline and 12 Months"
+        },
+        {
+          "measure": "Core Study: Change from Baseline in CSF Biomarkers (Aβ[1-42], t-tau, and p-tau) at 12 Months",
+          "timeFrame": "Baseline and 12 Months"
+        },
+        {
+          "measure": "Core Study: Change from Baseline in Total Hippocampal Volume at 6 and 12 Months as Measured by vMRI",
+          "timeFrame": "Baseline, 6 and 12 Months"
+        },
+        {
+          "measure": "Core Study: Change from Baseline in Left and Right Hippocampal Volume at 6, 12, and 18 Months as Measured by vMRI",
+          "timeFrame": "Baseline and 6, 12 and 18 Months"
+        },
+        {
+          "measure": "Core Study: Change from Baseline in Whole Brain Volume at 6, 12, and 18 Months as Measured by vMRI",
+          "timeFrame": "Baseline and 6, 12 and 18 Months"
+        },
+        {
+          "measure": "Core Study: Change from Baseline in Total Ventricular Volume at 6, 12, and 18 Months as Measured by vMRI",
+          "timeFrame": "Baseline and 6, 12 and 18 Months"
+        },
+        {
+          "measure": "Change From Baselines in Brain Amyloid Levels as Measured by Amyloid PET at 3 months (Visit 50 [Extension Week 13], Cohort 1) or 6 months (Visit 57 [Extension Week 27], Cohort 2), 12 months and Annually Thereafter in the Extension Phase",
+          "timeFrame": "Extension Phase: Baseline, 3 months (Visit 50 [Extension Week 13], Cohort 1) or 6 months (Visit 57 [Extension Week 27], Cohort 2), 12 months and annually thereafter in the Extension Phase up to Visit 174 [Extension Week 261]"
+        },
+        {
+          "measure": "Extension Phase: Change from end of Core Study in Brain Amyloid Levels as Measured by Amyloid PET at the Baseline of Extension Phase",
+          "timeFrame": "End of Core Study (Month 18) up to Baseline of Extension Phase"
+        },
+        {
+          "measure": "Extension Phase: Percentage of Amyloid Positive Participants Over Time",
+          "timeFrame": "Extension Phase: Baseline up to 60 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Key Inclusion Criteria (Core Study) for Mild Cognitive Impairment due to Alzheimer's Disease\n\n\\- Intermediate likelihood:\n\n1. Subjects who meet the National Institute of Aging - Alzheimer's Association (NIA-AA) core clinical criteria for mild cognitive impairment due to Alzheimer's disease - intermediate likelihood\n2. Subjects who have a CDR score of 0.5 and a Memory Box score of 0.5 or greater at Screening and Baseline\n3. Subjects who report a history of subjective memory decline with gradual onset and slow progression over the last one year before Screening; MUST be corroborated by an informant\n\nKey Inclusion Criteria (Core Study) for Mild Alzheimer's Disease Dementia:\n\n1. Subjects who meet the NIA-AA core clinical criteria for probable Alzheimer's disease dementia\n2. Subjects who have a CDR score of 0.5-1.0 and a Memory Box score of 0.5 or greater at Screening and Baseline\n\nInclusion Criteria (Core Study) that must be met by all subjects:\n\n1. Subjects with objective impairment in episodic memory as indicated by at least 1 standard deviation below age-adjusted mean in the Wechsler Memory Scale - IV Logical Memory II (WMS-IV LMII):\n\n   1. Less than or equal to 15 for age 50 to 64 years\n   2. Less than or equal to 12 for age 65 to 69 years\n   3. Less than or equal to 11 for age 70 to 74 years\n   4. Less than or equal to 9 for age 75 to 79 years\n   5. Less than or equal to 7 for age 80 to 90 years\n2. Positive amyloid load as indicated by PET or CSF assessment\n\n   1. PET assessment of imaging agent uptake into brain\n   2. CSF assessment of Aβ(1-42)\n3. Age between 50 and 90 years, inclusive\n4. Mini Mental State Examination (MMSE) score equal to or greater than 22, and equal to or less than 30, at Screening and Baseline\n5. Body Mass Index (BMI) greater than 17 and less than 35 at Screening or Baseline\n6. Females must not be lactating or pregnant at Screening or Baseline (as documented by a negative beta-human chorionic gonadotropin assay \\[ß-hCG\\]). A separate baseline assessment is required if a negative screening pregnancy test was obtained more than 72 hours before the first dose of study drug.\n7. Subjects on acetylcholinesterase inhibitor or memantine therapy or both for AD must be on a stable dose for at least 12 weeks prior to Baseline. Treatment naive subjects can be entered into the study. Unless otherwise stated, subjects must have been on stable doses of all other permitted concomitant medications (ie, non-AD related) for at least 4 weeks prior to Baseline.\n8. Subjects must have identified caregivers/informants\n9. Subjects must provide written informed consent\n\nInclusion Criteria (Extension Phase):\n\n1. Subjects who have completed Visit 42 (Week 79) of the Core Study or who discontinued study drug during the Core Study due to any of the following reasons:\n\n   1. Alzheimer's Related Imaging Abnormality-Edema (ARIA-E)\n   2. Amyloid related imaging abnormality hemorrhage (ARIA-H) (superficial siderosis, macrohemorrhage, or symptomatic microhemorrhage)\n   3. Prohibited or restricted medications that were prohibited during Core Study conduct but are no longer prohibited in the Extension Phase\n   4. Subjects who were APOE4 positive and receiving treatment with lecanemab 10 mg/kg biweekly\n   5. Any reason for discontinuation not related to prohibited medications, including any AE that was considered not related to study drug, and that was not severe or life-threatening\n2. Must continue to have an identified caregiver or informant who is willing and able to provide follow-up information on the subject throughout the course of the Extension Phase\n3. Provide written informed consent. If a subject lacks capacity to consent in the investigator's opinion, the subject's assent should be obtained, if required in accordance with local laws, regulations and customs, plus the written informed consent of a legal representative should be obtained (capacity to consent and definition of legal representative should be determined in accordance with applicable local laws and regulations).\n4. Must be able to physically attend clinic visits and be willing and able to comply with all aspects of the protocol\n\nKey Exclusion Criteria (Core study):\n\n1. Any neurological condition that may be contributing to cognitive impairment above and beyond that caused by the subject's AD\n2. History of transient ischemic attacks (TIA), stroke, or seizures within 12 months of Screening\n3. Any psychiatric diagnosis or symptoms, (e.g., hallucinations, major depression, or delusions) that could interfere with study procedures in the subject\n4. Geriatric Depression Scale (GDS) score ≥8 at Screening\n5. Contraindications to MRI scanning, including cardiac pacemaker/ defibrillator, ferromagnetic metal implants, e,g., in skull and cardiac devices other than those approved as safe for use in MR scanners\n6. Evidence of other clinically significant lesions that could indicate a dementia diagnosis other than AD on brain MRI at Screening, or other significant pathological findings on brain MRI at Screening\n7. A prolonged QT/QTc interval (QTc greater than 450 ms) as demonstrated by a repeated electrocardiogram (ECG)\n8. Certain other specified medical conditions\n9. Severe visual or hearing impairment that would prevent the subject from performing psychometric tests accurately\n\nExclusion Criteria (Extension Phase):\n\n1. Subjects who discontinued from the study drug or from the Core Study for reasons other than the following:\n\n   1. ARIA-E\n   2. ARIA-H (superficial siderosis, macrohemorrhage, or symptomatic microhemorrhage)\n   3. Prohibited or restricted medications that were prohibited during Core Study conduct but are no longer prohibited in the Extension Phase\n   4. Subjects who were APOE4 positive and receiving treatment with lecanemab 10 mg/kg biweekly\n   5. AE that was considered not related to study drug, and that was not severe or life-threatening\n2. Females of childbearing potential who do not agree to use a highly effective method of contraception\n3. Severe visual or hearing impairment that would prevent the subject from performing psychometric tests accurately.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "50 Years",
+      "maximumAge": "90 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "Facility #1",
+          "city": "Birmingham",
+          "state": "Alabama",
+          "zip": "35294",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.52066,
+            "lon": -86.80249
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Phoenix",
+          "state": "Arizona",
+          "zip": "85004",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.44838,
+            "lon": -112.07404
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Tucson",
+          "state": "Arizona",
+          "zip": "85724",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.22174,
+            "lon": -110.92648
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Carson",
+          "state": "California",
+          "zip": "90746",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.83141,
+            "lon": -118.28202
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Lomita",
+          "state": "California",
+          "zip": "90717",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.79224,
+            "lon": -118.31507
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Long Beach",
+          "state": "California",
+          "zip": "90806",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.76696,
+            "lon": -118.18923
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Los Alamitos",
+          "state": "California",
+          "zip": "90720",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.80307,
+            "lon": -118.07256
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90024",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.05223,
+            "lon": -118.24368
+          }
+        },
+        {
+          "facility": "Facility #2",
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90024",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.05223,
+            "lon": -118.24368
+          }
+        },
+        {
+          "facility": "Facility #3",
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90024",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.05223,
+            "lon": -118.24368
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Orange",
+          "state": "California",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.78779,
+            "lon": -117.85311
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Oxnard",
+          "state": "California",
+          "zip": "93030",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.1975,
+            "lon": -119.17705
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "San Diego",
+          "state": "California",
+          "zip": "92123",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.71571,
+            "lon": -117.16472
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Denver",
+          "state": "Colorado",
+          "zip": "80239-3133",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.73915,
+            "lon": -104.9847
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "New Haven",
+          "state": "Connecticut",
+          "zip": "06510",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.30815,
+            "lon": -72.92816
+          }
+        },
+        {
+          "facility": "Facility #2",
+          "city": "New Haven",
+          "state": "Connecticut",
+          "zip": "06510",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.30815,
+            "lon": -72.92816
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Atlantis",
+          "state": "Florida",
+          "zip": "33462",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 26.5909,
+            "lon": -80.10088
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Boca Raton",
+          "state": "Florida",
+          "zip": "33431",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 26.35869,
+            "lon": -80.0831
+          }
+        },
+        {
+          "facility": "Facility #2",
+          "city": "Boca Raton",
+          "state": "Florida",
+          "zip": "33486",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 26.35869,
+            "lon": -80.0831
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Bradenton",
+          "state": "Florida",
+          "zip": "34205",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 27.49893,
+            "lon": -82.57482
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Deerfield Beach",
+          "state": "Florida",
+          "zip": "33064",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 26.31841,
+            "lon": -80.09977
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Delray Beach",
+          "state": "Florida",
+          "zip": "33445",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 26.46146,
+            "lon": -80.07282
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Fort Myers",
+          "state": "Florida",
+          "zip": "33912",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 26.62168,
+            "lon": -81.84059
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Hallandale",
+          "state": "Florida",
+          "zip": "33009",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 25.9812,
+            "lon": -80.14838
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Hialeah",
+          "state": "Florida",
+          "zip": "33016",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 25.8576,
+            "lon": -80.27811
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Lake Worth",
+          "state": "Florida",
+          "zip": "33449",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 26.61708,
+            "lon": -80.07231
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Leesburg",
+          "state": "Florida",
+          "zip": "34748",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 28.81082,
+            "lon": -81.87786
+          }
+        },
+        {
+          "facility": "Facility #2",
+          "city": "Leesburg",
+          "state": "Florida",
+          "zip": "34749",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 28.81082,
+            "lon": -81.87786
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Miami",
+          "state": "Florida",
+          "zip": "33133",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 25.77427,
+            "lon": -80.19366
+          }
+        },
+        {
+          "facility": "Facility #2",
+          "city": "Miami",
+          "state": "Florida",
+          "zip": "33137",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 25.77427,
+            "lon": -80.19366
+          }
+        },
+        {
+          "facility": "Facility #3",
+          "city": "Miami",
+          "state": "Florida",
+          "zip": "33145",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 25.77427,
+            "lon": -80.19366
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Miami Springs",
+          "state": "Florida",
+          "zip": "33166",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 25.82232,
+            "lon": -80.2895
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Naples",
+          "state": "Florida",
+          "zip": "34102",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 26.14234,
+            "lon": -81.79596
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Ocala",
+          "state": "Florida",
+          "zip": "34471",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.1872,
+            "lon": -82.14009
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Orlando",
+          "state": "Florida",
+          "zip": "32806",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 28.53834,
+            "lon": -81.37924
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Palm Beach Gardens",
+          "state": "Florida",
+          "zip": "33410",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 26.82339,
+            "lon": -80.13865
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "St. Petersburg",
+          "state": "Florida",
+          "zip": "33713",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 27.77086,
+            "lon": -82.67927
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Sunrise",
+          "state": "Florida",
+          "zip": "33351",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 26.13397,
+            "lon": -80.1131
+          }
+        },
+        {
+          "facility": "Facility #3",
+          "city": "Tampa",
+          "state": "Florida",
+          "zip": "33609",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 27.94752,
+            "lon": -82.45843
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Tampa",
+          "state": "Florida",
+          "zip": "33613",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 27.94752,
+            "lon": -82.45843
+          }
+        },
+        {
+          "facility": "Facility #2",
+          "city": "Tampa",
+          "state": "Florida",
+          "zip": "33613",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 27.94752,
+            "lon": -82.45843
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "The Villages",
+          "state": "Florida",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 28.93408,
+            "lon": -81.95994
+          }
+        },
+        {
+          "facility": "Facility #2",
+          "city": "Atlanta",
+          "state": "Georgia",
+          "zip": "30308",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.749,
+            "lon": -84.38798
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Atlanta",
+          "state": "Georgia",
+          "zip": "30329",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.749,
+            "lon": -84.38798
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Columbus",
+          "state": "Georgia",
+          "zip": "31909",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.46098,
+            "lon": -84.98771
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Decatur",
+          "state": "Georgia",
+          "zip": "30033",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.77483,
+            "lon": -84.29631
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Chicago",
+          "state": "Illinois",
+          "zip": "60640",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.85003,
+            "lon": -87.65005
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Elk Grove Village",
+          "state": "Illinois",
+          "zip": "60007",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.00392,
+            "lon": -87.97035
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Elkhart",
+          "state": "Indiana",
+          "zip": "46514",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.68199,
+            "lon": -85.97667
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Indianapolis",
+          "state": "Indiana",
+          "zip": "46202",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.76838,
+            "lon": -86.15804
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Wichita",
+          "state": "Kansas",
+          "zip": "67214",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 37.69224,
+            "lon": -97.33754
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Lexington",
+          "state": "Kentucky",
+          "zip": "40504",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 37.98869,
+            "lon": -84.47772
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02115",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.35843,
+            "lon": -71.05977
+          }
+        },
+        {
+          "facility": "Facility #2",
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02118",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.35843,
+            "lon": -71.05977
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Burlington",
+          "state": "Massachusetts",
+          "zip": "01805",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.50482,
+            "lon": -71.19561
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Newton",
+          "state": "Massachusetts",
+          "zip": "02459",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.33704,
+            "lon": -71.20922
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Ann Arbor",
+          "state": "Michigan",
+          "zip": "48105-2945",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.27756,
+            "lon": -83.74088
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "East Lansing",
+          "state": "Michigan",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.73698,
+            "lon": -84.48387
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Farmington Hills",
+          "state": "Michigan",
+          "zip": "48334",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.48531,
+            "lon": -83.37716
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Lansing",
+          "state": "Michigan",
+          "zip": "48824",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.73253,
+            "lon": -84.55553
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "West Bloomfield",
+          "state": "Michigan",
+          "zip": "48322",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.56891,
+            "lon": -83.38356
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "St Louis",
+          "state": "Missouri",
+          "zip": "63118",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.62727,
+            "lon": -90.19789
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Eatontown",
+          "state": "New Jersey",
+          "zip": "07724",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.29622,
+            "lon": -74.05097
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Toms River",
+          "state": "New Jersey",
+          "zip": "08755",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.95373,
+            "lon": -74.19792
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Albany",
+          "state": "New York",
+          "zip": "12206",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.65258,
+            "lon": -73.75623
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Amherst",
+          "state": "New York",
+          "zip": "14226",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.97839,
+            "lon": -78.79976
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Latham",
+          "state": "New York",
+          "zip": "12110",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.74702,
+            "lon": -73.75901
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "New York",
+          "state": "New York",
+          "zip": "10016",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.71427,
+            "lon": -74.00597
+          }
+        },
+        {
+          "facility": "Facility #2",
+          "city": "New York",
+          "state": "New York",
+          "zip": "10021",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.71427,
+            "lon": -74.00597
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Rochester",
+          "state": "New York",
+          "zip": "14620",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 43.15478,
+            "lon": -77.61556
+          }
+        },
+        {
+          "facility": "Facility #2",
+          "city": "Rochester",
+          "state": "New York",
+          "zip": "14623",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 43.15478,
+            "lon": -77.61556
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Charlotte",
+          "state": "North Carolina",
+          "zip": "28211",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.22709,
+            "lon": -80.84313
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Centerville",
+          "state": "Ohio",
+          "zip": "45459",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.62839,
+            "lon": -84.15938
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Oklahoma City",
+          "state": "Oklahoma",
+          "zip": "73112",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.46756,
+            "lon": -97.51643
+          }
+        },
+        {
+          "facility": "Facility #2",
+          "city": "Oklahoma City",
+          "state": "Oklahoma",
+          "zip": "73116",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.46756,
+            "lon": -97.51643
+          }
+        },
+        {
+          "facility": "Facility #2",
+          "city": "Portland",
+          "state": "Oregon",
+          "zip": "97210",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 45.52345,
+            "lon": -122.67621
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Portland",
+          "state": "Oregon",
+          "zip": "97239",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 45.52345,
+            "lon": -122.67621
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Abington",
+          "state": "Pennsylvania",
+          "zip": "19001",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.12067,
+            "lon": -75.11795
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Jenkintown",
+          "state": "Pennsylvania",
+          "zip": "19046",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.09594,
+            "lon": -75.12517
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "East Providence",
+          "state": "Rhode Island",
+          "zip": "02914",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.81371,
+            "lon": -71.37005
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Knoxville",
+          "state": "Tennessee",
+          "zip": "37920",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.96064,
+            "lon": -83.92074
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Austin",
+          "state": "Texas",
+          "zip": "78757",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 30.26715,
+            "lon": -97.74306
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Dallas",
+          "state": "Texas",
+          "zip": "75214",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.78306,
+            "lon": -96.80667
+          }
+        },
+        {
+          "facility": "Facility #2",
+          "city": "Dallas",
+          "state": "Texas",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.78306,
+            "lon": -96.80667
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77074",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.76328,
+            "lon": -95.36327
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "San Antonio",
+          "state": "Texas",
+          "zip": "78229",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.42412,
+            "lon": -98.49363
+          }
+        },
+        {
+          "facility": "Facility #2",
+          "city": "San Antonio",
+          "state": "Texas",
+          "zip": "78229",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.42412,
+            "lon": -98.49363
+          }
+        },
+        {
+          "facility": "Facility #3",
+          "city": "San Antonio",
+          "state": "Texas",
+          "zip": "78229",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.42412,
+            "lon": -98.49363
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Bennington",
+          "state": "Vermont",
+          "zip": "05201",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.87813,
+            "lon": -73.19677
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Richmond",
+          "state": "Virginia",
+          "zip": "23294",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 37.55376,
+            "lon": -77.46026
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Milwaukee",
+          "state": "Wisconsin",
+          "zip": "53226",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 43.0389,
+            "lon": -87.90647
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Kentville",
+          "state": "Nova Scotia",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 45.0771,
+            "lon": -64.49605
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Kingston",
+          "state": "Ontario",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 44.22976,
+            "lon": -76.48098
+          }
+        },
+        {
+          "facility": "Facility #2",
+          "city": "London",
+          "state": "Ontario",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 42.98339,
+            "lon": -81.23304
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Ottawa",
+          "state": "Ontario",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 45.41117,
+            "lon": -75.69812
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Peterborough",
+          "state": "Ontario",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 44.30012,
+            "lon": -78.31623
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Toronto",
+          "state": "Ontario",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 43.70643,
+            "lon": -79.39864
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Greenfield Park",
+          "state": "Quebec",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 45.48649,
+            "lon": -73.46223
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Montreal",
+          "state": "Quebec",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 45.50884,
+            "lon": -73.58781
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Verdun",
+          "state": "Quebec",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 45.46005,
+            "lon": -73.57058
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Québec",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 46.81228,
+            "lon": -71.21454
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Strasbourg",
+          "state": "Bas Rhin",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.58392,
+            "lon": 7.74553
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Toulouse",
+          "state": "Haute Garonne",
+          "country": "France",
+          "geoPoint": {
+            "lat": 43.60426,
+            "lon": 1.44367
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Paris",
+          "state": "Paris",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.85341,
+            "lon": 2.3488
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Bron",
+          "country": "France",
+          "geoPoint": {
+            "lat": 45.73865,
+            "lon": 4.91303
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Paris",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.85341,
+            "lon": 2.3488
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Rennes",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.11109,
+            "lon": -1.67431
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Villeurbanne",
+          "country": "France",
+          "geoPoint": {
+            "lat": 45.76601,
+            "lon": 4.8795
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Gunzburg",
+          "state": "Baden-Wurttemberg",
+          "country": "Germany"
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Karlstadt am Main",
+          "state": "Bavaria",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 49.96034,
+            "lon": 9.77239
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Hanover",
+          "state": "Lower Saxony",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 52.37052,
+            "lon": 9.73322
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Mittweida",
+          "state": "Saxony",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 50.98622,
+            "lon": 12.97537
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Hoppegarten",
+          "state": "State of Berlin",
+          "country": "Germany"
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Berlin",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 52.52437,
+            "lon": 13.41053
+          }
+        },
+        {
+          "facility": "Facility #2",
+          "city": "Berlin",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 52.52437,
+            "lon": 13.41053
+          }
+        },
+        {
+          "facility": "Facility #3",
+          "city": "Berlin",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 52.52437,
+            "lon": 13.41053
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Günzburg",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 48.45599,
+            "lon": 10.27695
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Hamburg",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 53.55073,
+            "lon": 9.99302
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Heidelberg",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 49.40768,
+            "lon": 8.69079
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Leipzig",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.33962,
+            "lon": 12.37129
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Mannheim",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 49.4891,
+            "lon": 8.46694
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "München",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.60698,
+            "lon": 13.31243
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Tübingen",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 48.52266,
+            "lon": 9.05222
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Brescia",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 45.53558,
+            "lon": 10.21472
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Genova",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 45.21604,
+            "lon": 11.87211
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Milan",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 42.78235,
+            "lon": 12.59836
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Parma",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 44.79935,
+            "lon": 10.32618
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Perugia",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 43.1122,
+            "lon": 12.38878
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Pisa",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 43.70853,
+            "lon": 10.4036
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Roma",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 44.99364,
+            "lon": 11.10642
+          }
+        },
+        {
+          "facility": "Facility #2",
+          "city": "Roma",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 44.99364,
+            "lon": 11.10642
+          }
+        },
+        {
+          "facility": "Facility #3",
+          "city": "Roma",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 44.99364,
+            "lon": 11.10642
+          }
+        },
+        {
+          "facility": "Eisai Trial Site #1",
+          "city": "Otake-shi",
+          "state": "Hiroshima",
+          "country": "Japan"
+        },
+        {
+          "facility": "Eisai Trial Site #1",
+          "city": "Himeji-shi",
+          "state": "Hyōgo",
+          "country": "Japan"
+        },
+        {
+          "facility": "Eisai Trial Site #2",
+          "city": "Himeji-shi",
+          "state": "Hyōgo",
+          "country": "Japan"
+        },
+        {
+          "facility": "Eisai Trial Site #3",
+          "city": "Himeji-shi",
+          "state": "Hyōgo",
+          "country": "Japan"
+        },
+        {
+          "facility": "Eisai Trial Site #1",
+          "city": "Kobe",
+          "state": "Hyōgo",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 34.6913,
+            "lon": 135.183
+          }
+        },
+        {
+          "facility": "Eisai Trial Site #1",
+          "city": "Nishinomiya-shi",
+          "state": "Hyōgo",
+          "country": "Japan"
+        },
+        {
+          "facility": "Eisai Trial Site #1",
+          "city": "Kyoto",
+          "state": "Kyoto",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 35.02107,
+            "lon": 135.75385
+          }
+        },
+        {
+          "facility": "Eisai Trial Site #1",
+          "city": "Kurashiki-shi",
+          "state": "Okayama-ken",
+          "country": "Japan"
+        },
+        {
+          "facility": "Eisai Trial Site #1",
+          "city": "Osaka",
+          "state": "Osaka",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 34.69379,
+            "lon": 135.50107
+          }
+        },
+        {
+          "facility": "Eisai Trial Site #1",
+          "city": "Saitama-shi",
+          "state": "Saitama",
+          "country": "Japan"
+        },
+        {
+          "facility": "Eisai Trial Site #1",
+          "city": "Itabashi-ku",
+          "state": "Tokyo-To",
+          "country": "Japan"
+        },
+        {
+          "facility": "Eisai Trial Site #1",
+          "city": "Shinjuku-ku",
+          "state": "Tokyo-To",
+          "country": "Japan"
+        },
+        {
+          "facility": "Eisai Trial Site #2",
+          "city": "Shinjuku-ku",
+          "state": "Tokyo-To",
+          "country": "Japan"
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Amsterdam",
+          "country": "Netherlands",
+          "geoPoint": {
+            "lat": 52.37403,
+            "lon": 4.88969
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Seongnam-si",
+          "state": "Gyeonggi-do",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 37.43861,
+            "lon": 127.13778
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Pusan",
+          "state": "Gyeongsangnam-do",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 35.13951,
+            "lon": 128.46482
+          }
+        },
+        {
+          "facility": "Facility #2",
+          "city": "Seoul",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 37.566,
+            "lon": 126.9784
+          }
+        },
+        {
+          "facility": "Facility #3",
+          "city": "Seoul",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 37.566,
+            "lon": 126.9784
+          }
+        },
+        {
+          "facility": "Facility #4",
+          "city": "Seoul",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 37.566,
+            "lon": 126.9784
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Sant Cugat Del Vallés",
+          "state": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Donostia / San Sebastian",
+          "state": "Guipuzcoa",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 43.31283,
+            "lon": -1.97499
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Barakaldo",
+          "state": "Vizcaya",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 43.29639,
+            "lon": -2.98813
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Alicante",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 38.34517,
+            "lon": -0.48149
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Barcelona",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.38879,
+            "lon": 2.15899
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Madrid",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 40.4165,
+            "lon": -3.70256
+          }
+        },
+        {
+          "facility": "Facility #2",
+          "city": "Madrid",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 40.4165,
+            "lon": -3.70256
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Seville",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 37.38283,
+            "lon": -5.97317
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Malmo",
+          "country": "Sweden",
+          "geoPoint": {
+            "lat": 55.60587,
+            "lon": 13.00073
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Mölndal",
+          "country": "Sweden",
+          "geoPoint": {
+            "lat": 57.6554,
+            "lon": 12.01378
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Stockholm",
+          "country": "Sweden",
+          "geoPoint": {
+            "lat": 59.32938,
+            "lon": 18.06871
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Uppsala",
+          "country": "Sweden",
+          "geoPoint": {
+            "lat": 59.85882,
+            "lon": 17.63889
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "London",
+          "state": "Greater London",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 51.50853,
+            "lon": -0.12574
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Isleworth",
+          "state": "Middlesex",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 51.47518,
+            "lon": -0.34246
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Glasgow",
+          "state": "Renfrewshire",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 55.86515,
+            "lon": -4.25763
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Bath",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 51.3751,
+            "lon": -2.36172
+          }
+        },
+        {
+          "facility": "Facility #2",
+          "city": "London",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 51.50853,
+            "lon": -0.12574
+          }
+        },
+        {
+          "facility": "Facility #1",
+          "city": "Swindon",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 51.55797,
+            "lon": -1.78116
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "38087949",
+          "type": "DERIVED",
+          "citation": "Devanarayan V, Ye Y, Charil A, Andreozzi E, Sachdev P, Llano DA, Tian L, Zhu L, Hampel H, Kramer L, Dhadda S, Irizarry M; Alzheimer's Disease Neuroimaging Initiative (ADNI). Predicting clinical progression trajectories of early Alzheimer's disease patients. Alzheimers Dement. 2024 Mar;20(3):1725-1738. doi: 10.1002/alz.13565. Epub 2023 Dec 13."
+        },
+        {
+          "pmid": "37040116",
+          "type": "DERIVED",
+          "citation": "Berry DA, Dhadda S, Kanekiyo M, Li D, Swanson CJ, Irizarry M, Kramer LD, Berry SM. Lecanemab for Patients With Early Alzheimer Disease: Bayesian Analysis of a Phase 2b Dose-Finding Randomized Clinical Trial. JAMA Netw Open. 2023 Apr 3;6(4):e237230. doi: 10.1001/jamanetworkopen.2023.7230."
+        },
+        {
+          "pmid": "36544184",
+          "type": "DERIVED",
+          "citation": "McDade E, Cummings JL, Dhadda S, Swanson CJ, Reyderman L, Kanekiyo M, Koyama A, Irizarry M, Kramer LD, Bateman RJ. Lecanemab in patients with early Alzheimer's disease: detailed results on biomarker, cognitive, and clinical effects from the randomized and open-label extension of the phase 2 proof-of-concept study. Alzheimers Res Ther. 2022 Dec 21;14(1):191. doi: 10.1186/s13195-022-01124-2."
+        },
+        {
+          "pmid": "36482412",
+          "type": "DERIVED",
+          "citation": "Dhadda S, Kanekiyo M, Li D, Swanson CJ, Irizarry M, Berry S, Kramer LD, Berry DA. Consistency of efficacy results across various clinical measures and statistical methods in the lecanemab phase 2 trial of early Alzheimer's disease. Alzheimers Res Ther. 2022 Dec 9;14(1):182. doi: 10.1186/s13195-022-01129-x."
+        },
+        {
+          "pmid": "33865446",
+          "type": "DERIVED",
+          "citation": "Swanson CJ, Zhang Y, Dhadda S, Wang J, Kaplow J, Lai RYK, Lannfelt L, Bradley H, Rabe M, Koyama A, Reyderman L, Berry DA, Berry S, Gordon R, Kramer LD, Cummings JL. A randomized, double-blind, phase 2b proof-of-concept clinical trial in early Alzheimer's disease with lecanemab, an anti-Abeta protofibril antibody. Alzheimers Res Ther. 2021 Apr 17;13(1):80. doi: 10.1186/s13195-021-00813-8."
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-12",
+      "submissionTracking": {
+        "estimatedResultsFirstSubmitDate": "2025-12-10",
+        "submissionInfos": [
+          {
+            "releaseDate": "2025-12-10"
+          }
+        ]
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000544",
+          "term": "Alzheimer Disease"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D003704",
+          "term": "Dementia"
+        },
+        {
+          "id": "D001927",
+          "term": "Brain Diseases"
+        },
+        {
+          "id": "D002493",
+          "term": "Central Nervous System Diseases"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D024801",
+          "term": "Tauopathies"
+        },
+        {
+          "id": "D019636",
+          "term": "Neurodegenerative Diseases"
+        },
+        {
+          "id": "D019965",
+          "term": "Neurocognitive Disorders"
+        },
+        {
+          "id": "D001523",
+          "term": "Mental Disorders"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C000612089",
+          "term": "lecanemab"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

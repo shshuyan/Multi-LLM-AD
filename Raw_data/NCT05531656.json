@@ -1,0 +1,826 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05531656",
+      "orgStudyIdInfo": {
+        "id": "COG0203"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "R01AG065248",
+          "type": "NIH",
+          "link": "https://reporter.nih.gov/quickSearch/R01AG065248"
+        }
+      ],
+      "organization": {
+        "fullName": "Cognition Therapeutics",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Study to Evaluate the Safety and Efficacy of CT1812 in Early Alzheimer's Disease",
+      "officialTitle": "Synaptic Therapy Alzheimer's Research Trial (START): A Randomized, Double-Blind, Placebo-Controlled, Parallel-Group Trial to Evaluate the Safety and Efficacy of CT1812 in Early Alzheimer's Disease Over 18 Months."
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-07",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-06-28",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2027-04",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2027-04",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2022-08-08",
+      "studyFirstSubmitQcDate": "2022-09-02",
+      "studyFirstPostDateStruct": {
+        "date": "2022-09-08",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-09-16",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-09-22",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Cognition Therapeutics",
+        "class": "INDUSTRY"
+      },
+      "collaborators": [
+        {
+          "name": "National Institute on Aging (NIA)",
+          "class": "NIH"
+        },
+        {
+          "name": "Alzheimer's Clinical Trials Consortium",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This is a multicenter randomized, double-blind, placebo-controlled Phase 2 study designed to evaluate the efficacy, safety, and tolerability of two doses of CT1812 compared to placebo in participants diagnosed with early Alzheimer's disease.",
+      "detailedDescription": "This is a multicenter randomized, double-blind, placebo-controlled Phase 2 study designed to evaluate the efficacy, safety, and tolerability of two doses of CT1812 compared to placebo for approximately 18 months (72 weeks) in approximately 540 participants diagnosed with early Alzheimer's disease\n\nParticipants will be randomized 1:1:1 to receive either 100mg or 200mg of CT1812 or placebo. CT1812 or placebo will be administered as 2 capsules to be taken orally once daily."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Early Alzheimer's Disease"
+      ],
+      "keywords": [
+        "Alzheimer's Disease"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "QUADRUPLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 540,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "CT1812 100 mg",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "CT1812 at a dose of 100 n=180 group",
+          "interventionNames": [
+            "Drug: CT1812"
+          ]
+        },
+        {
+          "label": "CT1812 200 mg",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "CT1812 at a dose of 300mg, n=180 group",
+          "interventionNames": [
+            "Drug: CT1812"
+          ]
+        },
+        {
+          "label": "Placebo",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "Placebo, n=180 group",
+          "interventionNames": [
+            "Drug: Placebo"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "CT1812",
+          "description": "Study Drug",
+          "armGroupLabels": [
+            "CT1812 100 mg",
+            "CT1812 200 mg"
+          ],
+          "otherNames": [
+            "Study Drug Active"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo",
+          "description": "Non-active study drug",
+          "armGroupLabels": [
+            "Placebo"
+          ],
+          "otherNames": [
+            "Matching Placebo"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Change from baseline in the Clinical Dementia Rating Scale Sum of Boxes (CDR-SB) scale.",
+          "description": "The Clinical Dementia Rating (CDR) is a clinical scale that describes 5 levels of impairment in performance on each of 6 categories of function including memory, orientation, judgment and problem solving, community affairs, home and hobbies, and personal care. The ratings of degree of impairment obtained on each of the 6 categories of function are synthesized into 1 global rating of dementia as absent, questionable, mild, moderate, or severe (global CDR scores of 0, 0.5, 1, 2, or 3, respectively). The score is based on interviews with the participant and study partner, using a structured interview. A sum of boxes score (CDR-SB) provides an additional measure of change where each category has a maximum possible score of 3 points and the total score is a sum of the category scores giving a total possible score of 0 to 18 with higher scores indicating more impairment.",
+          "timeFrame": "18 months"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Alzheimer's Disease Assessment Scale-Cognition (ADAS-Cog 13)",
+          "description": "Change from baseline in the Alzheimer's Disease Assessment Scale-Cognition (ADAS-Cog 13) at 18 months.",
+          "timeFrame": "18 months"
+        },
+        {
+          "measure": "Alzheimer's Disease Cooperative Study - Activities of Daily Living Scale (ADCS - ADL) in people with Mild Cognitive Impairment (MCI) - ADCS-ADL-MCI.",
+          "description": "Change from baseline in the Alzheimer's Disease Cooperative Study - Activities of Daily Living Scale (ADCS - ADL) in people with Mild Cognitive Impairment (MCI) - ADCS-ADL-MCI at 18 months.",
+          "timeFrame": "18 months"
+        },
+        {
+          "measure": "Cerebrospinal fluid (CSF) concentrations of beta-amyloid (Aβ) 40 and 42, tau, phospho-tau (ptau), neurofilament light (NfL), neurogranin, and synaptotagmin.",
+          "description": "Change from baseline at 18 months.",
+          "timeFrame": "18 months"
+        },
+        {
+          "measure": "Plasma measures of Aβ fragments, ptau, and Neurofilament light (NfL)",
+          "description": "Change from baseline at 18 months.",
+          "timeFrame": "18 months"
+        },
+        {
+          "measure": "Volumetric Magnetic Resonance Imaging (MRI) including hippocampal and whole brain volume change",
+          "description": "Change from baseline at 18 months.",
+          "timeFrame": "18 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Ages 50-85 years.\n2. Diagnosis of either MCI due to AD or mild AD dementia.\n3. MMSE 20-30 (inclusive).\n4. Amyloid PET scan of the brain or CSF biomarkers consistent with AD.\n5. Neuroimaging (MRI) obtained during screening consistent with the clinical diagnosis of Alzheimer's disease, as based on central read.\n\nExclusion Criteria:\n\n1. Screening MRI of the brain indicative of significant abnormality.\n2. Clinically significant abnormalities in screening laboratory tests.\n3. Clinical or laboratory findings consistent with:\n\n   1. Other primary degenerative dementia, (dementia with Lewy bodies, fronto-temporal dementia, Huntington's disease, Creutzfeldt-Jakob Disease, Down syndrome, etc.).\n   2. Other neurodegenerative condition (Parkinson's disease, amyotrophic lateral sclerosis, etc.).\n   3. Other infectious, metabolic or systemic diseases affecting the central nervous system (syphilis, present hypothyroidism, present vitamin B12, other laboratory values etc.)\n4. A participant known to be actively infected with hepatitis B or hepatitis C at screening. History of acute/chronic hepatitis B or C and/or carriers of hepatitis B (seropositive for hepatitis B surface antigen \\[HbsAg\\] or anti-hepatitis C \\[HCV\\] antibody). Participants who have evidence of resolved hepatitis infection (e.g., HCV RNA negative) may be considered following discussion with the Medical Monitor.\n5. A current DSM-V diagnosis of active major depression or GDS \\> 6, schizophrenia, or bipolar disorder.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "50 Years",
+      "maximumAge": "85 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Anthony Caggiano, MD",
+          "affiliation": "Cognition Therapeutics",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "University of Alabama at Birmingham",
+          "city": "Birmingham",
+          "state": "Alabama",
+          "zip": "35294",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.52066,
+            "lon": -86.80249
+          }
+        },
+        {
+          "facility": "Banner Alzheimer's Institute",
+          "city": "Phoenix",
+          "state": "Arizona",
+          "zip": "85006",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.44838,
+            "lon": -112.07404
+          }
+        },
+        {
+          "facility": "Banner Sun Health Research Institute",
+          "city": "Sun City",
+          "state": "Arizona",
+          "zip": "85351",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.59754,
+            "lon": -112.27182
+          }
+        },
+        {
+          "facility": "University of California",
+          "city": "Irvine",
+          "state": "California",
+          "zip": "92697",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.66946,
+            "lon": -117.82311
+          }
+        },
+        {
+          "facility": "Stanford University",
+          "city": "Palo Alto",
+          "state": "California",
+          "zip": "94304",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 37.44188,
+            "lon": -122.14302
+          }
+        },
+        {
+          "facility": "Sutter Institute for Medical Research",
+          "city": "Sacramento",
+          "state": "California",
+          "zip": "95816",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.58157,
+            "lon": -121.4944
+          }
+        },
+        {
+          "facility": "Yale University",
+          "city": "New Haven",
+          "state": "Connecticut",
+          "zip": "06510",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.30815,
+            "lon": -72.92816
+          }
+        },
+        {
+          "facility": "Georgetown University",
+          "city": "Washington D.C.",
+          "state": "District of Columbia",
+          "zip": "20057",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.89511,
+            "lon": -77.03637
+          }
+        },
+        {
+          "facility": "Howard University",
+          "city": "Washington D.C.",
+          "state": "District of Columbia",
+          "zip": "20060",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.89511,
+            "lon": -77.03637
+          }
+        },
+        {
+          "facility": "Brain Matters Research",
+          "city": "Delray Beach",
+          "state": "Florida",
+          "zip": "33445",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 26.46146,
+            "lon": -80.07282
+          }
+        },
+        {
+          "facility": "Neuropsychiatric Research Center of Southwest Florida",
+          "city": "Fort Myers",
+          "state": "Florida",
+          "zip": "33912",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 26.62168,
+            "lon": -81.84059
+          }
+        },
+        {
+          "facility": "Mayo Clinic,Jacksonville",
+          "city": "Jacksonville",
+          "state": "Florida",
+          "zip": "32216",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 30.33218,
+            "lon": -81.65565
+          }
+        },
+        {
+          "facility": "JEM Research Institute",
+          "city": "Lake Worth",
+          "state": "Florida",
+          "zip": "33462",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 26.61708,
+            "lon": -80.07231
+          }
+        },
+        {
+          "facility": "K2 Medical Research, LLC",
+          "city": "Maitland",
+          "state": "Florida",
+          "zip": "32751",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 28.62778,
+            "lon": -81.36312
+          }
+        },
+        {
+          "facility": "Advanced Clinical Research Network, Corp",
+          "city": "Miami",
+          "state": "Florida",
+          "zip": "33135",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 25.77427,
+            "lon": -80.19366
+          }
+        },
+        {
+          "facility": "Charter Research",
+          "city": "Orlando",
+          "state": "Florida",
+          "zip": "32803",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 28.53834,
+            "lon": -81.37924
+          }
+        },
+        {
+          "facility": "Headlands Research Orlando",
+          "city": "Orlando",
+          "state": "Florida",
+          "zip": "32819",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 28.53834,
+            "lon": -81.37924
+          }
+        },
+        {
+          "facility": "Brain Matters Research Stuart",
+          "city": "Stuart",
+          "state": "Florida",
+          "zip": "34997",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 27.19755,
+            "lon": -80.25283
+          }
+        },
+        {
+          "facility": "University of South Florida",
+          "city": "Tampa",
+          "state": "Florida",
+          "zip": "33613",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 27.94752,
+            "lon": -82.45843
+          }
+        },
+        {
+          "facility": "Conquest Research, LLC",
+          "city": "Winter Park",
+          "state": "Florida",
+          "zip": "32789",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 28.6,
+            "lon": -81.33924
+          }
+        },
+        {
+          "facility": "Rush University Medical Center",
+          "city": "Chicago",
+          "state": "Illinois",
+          "zip": "60612",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.85003,
+            "lon": -87.65005
+          }
+        },
+        {
+          "facility": "Indiana University",
+          "city": "Indianapolis",
+          "state": "Indiana",
+          "zip": "46202",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.76838,
+            "lon": -86.15804
+          }
+        },
+        {
+          "facility": "Sanders-Brown Center on Aging",
+          "city": "Lexington",
+          "state": "Kentucky",
+          "zip": "40504",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 37.98869,
+            "lon": -84.47772
+          }
+        },
+        {
+          "facility": "John Hopkins University",
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21224",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.29038,
+            "lon": -76.61219
+          }
+        },
+        {
+          "facility": "Brigham and Women's Hospital",
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02115",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.35843,
+            "lon": -71.05977
+          }
+        },
+        {
+          "facility": "Highlands Research Eastern MA",
+          "city": "Plymouth",
+          "state": "Massachusetts",
+          "zip": "02360",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.95844,
+            "lon": -70.66726
+          }
+        },
+        {
+          "facility": "University of Michigan, Ann Arbor",
+          "city": "Ann Arbor",
+          "state": "Michigan",
+          "zip": "48109",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.27756,
+            "lon": -83.74088
+          }
+        },
+        {
+          "facility": "Mayo Clinic, Rochester",
+          "city": "Rochester",
+          "state": "Minnesota",
+          "zip": "55901",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 44.02163,
+            "lon": -92.4699
+          }
+        },
+        {
+          "facility": "Washington University School of Medicine",
+          "city": "St Louis",
+          "state": "Missouri",
+          "zip": "63110",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.62727,
+            "lon": -90.19789
+          }
+        },
+        {
+          "facility": "Cleveland Clinic Lou Ruvo Center for Brain Health",
+          "city": "Las Vegas",
+          "state": "Nevada",
+          "zip": "89106",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 36.17497,
+            "lon": -115.13722
+          }
+        },
+        {
+          "facility": "Mount Sinai School of Medicine",
+          "city": "New York",
+          "state": "New York",
+          "zip": "10029",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.71427,
+            "lon": -74.00597
+          }
+        },
+        {
+          "facility": "Columbia University Medical Center",
+          "city": "New York",
+          "state": "New York",
+          "zip": "10032",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.71427,
+            "lon": -74.00597
+          }
+        },
+        {
+          "facility": "University of Rochester Medical Center",
+          "city": "Rochester",
+          "state": "New York",
+          "zip": "14620",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 43.15478,
+            "lon": -77.61556
+          }
+        },
+        {
+          "facility": "Wake Forest University Health Sciences",
+          "city": "Winston-Salem",
+          "state": "North Carolina",
+          "zip": "27157",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 36.09986,
+            "lon": -80.24422
+          }
+        },
+        {
+          "facility": "Case Western Reserve University / University Hospitals",
+          "city": "Beachwood",
+          "state": "Ohio",
+          "zip": "44122",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.4645,
+            "lon": -81.50873
+          }
+        },
+        {
+          "facility": "Ohio State University",
+          "city": "Columbus",
+          "state": "Ohio",
+          "zip": "43210",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.96118,
+            "lon": -82.99879
+          }
+        },
+        {
+          "facility": "Central States Research, LLC",
+          "city": "Tulsa",
+          "state": "Oklahoma",
+          "zip": "74136",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 36.15398,
+            "lon": -95.99277
+          }
+        },
+        {
+          "facility": "Summit Headlands LLC",
+          "city": "Portland",
+          "state": "Oregon",
+          "zip": "97210",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 45.52345,
+            "lon": -122.67621
+          }
+        },
+        {
+          "facility": "Oregon Health & Science University",
+          "city": "Portland",
+          "state": "Oregon",
+          "zip": "97239",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 45.52345,
+            "lon": -122.67621
+          }
+        },
+        {
+          "facility": "Abington Neurological Associates",
+          "city": "Abington",
+          "state": "Pennsylvania",
+          "zip": "19001",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.12067,
+            "lon": -75.11795
+          }
+        },
+        {
+          "facility": "University of Pennsylvania",
+          "city": "Philadelphia",
+          "state": "Pennsylvania",
+          "zip": "19104",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.95238,
+            "lon": -75.16362
+          }
+        },
+        {
+          "facility": "Butler Hospital",
+          "city": "Providence",
+          "state": "Rhode Island",
+          "zip": "02906",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.82399,
+            "lon": -71.41283
+          }
+        },
+        {
+          "facility": "Ralph H. Johnson VA MC",
+          "city": "Charleston",
+          "state": "South Carolina",
+          "zip": "29401",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.77632,
+            "lon": -79.93275
+          }
+        },
+        {
+          "facility": "Vanderbilt University Medical Center Center for Cognitive Medicine",
+          "city": "Nashville",
+          "state": "Tennessee",
+          "zip": "37212",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 36.16589,
+            "lon": -86.78444
+          }
+        },
+        {
+          "facility": "Vanderbilt University Medical Center Center for Cognitive Medicine",
+          "city": "Nashville",
+          "state": "Tennessee",
+          "zip": "37232",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 36.16589,
+            "lon": -86.78444
+          }
+        },
+        {
+          "facility": "University of Texas Southwestern Medical Center",
+          "city": "Dallas",
+          "state": "Texas",
+          "zip": "75390",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.78306,
+            "lon": -96.80667
+          }
+        },
+        {
+          "facility": "Baylor College of Medicine",
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77030",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.76328,
+            "lon": -95.36327
+          }
+        },
+        {
+          "facility": "Houston Methodist Neurological Institute",
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77030",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.76328,
+            "lon": -95.36327
+          }
+        },
+        {
+          "facility": "University of Texas Health Science Center",
+          "city": "San Antonio",
+          "state": "Texas",
+          "zip": "78229",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.42412,
+            "lon": -98.49363
+          }
+        },
+        {
+          "facility": "University of Wisconsin",
+          "city": "Madison",
+          "state": "Wisconsin",
+          "zip": "53726",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 43.07305,
+            "lon": -89.40123
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-12"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000544",
+          "term": "Alzheimer Disease"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D003704",
+          "term": "Dementia"
+        },
+        {
+          "id": "D001927",
+          "term": "Brain Diseases"
+        },
+        {
+          "id": "D002493",
+          "term": "Central Nervous System Diseases"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D024801",
+          "term": "Tauopathies"
+        },
+        {
+          "id": "D019636",
+          "term": "Neurodegenerative Diseases"
+        },
+        {
+          "id": "D019965",
+          "term": "Neurocognitive Disorders"
+        },
+        {
+          "id": "D001523",
+          "term": "Mental Disorders"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

@@ -1,0 +1,3845 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04592341",
+      "orgStudyIdInfo": {
+        "id": "WN29722"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "2020-001384-87",
+          "type": "REGISTRY",
+          "domain": "EudraCT"
+        }
+      ],
+      "organization": {
+        "fullName": "Hoffmann-La Roche",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Study to Evaluate the Pharmacodynamic (PD) Effects of Once Weekly Administration of Gantenerumab in Participants With Early Alzheimer's Disease (AD)",
+      "officialTitle": "A Phase II, Multicenter, Open-Label, Single Arm Study to Evaluate the Pharmacodynamic Effects of Once Weekly Administration of Gantenerumab in Participants With Early (Prodromal to Mild) Alzheimer's Disease"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2024-02",
+      "overallStatus": "TERMINATED",
+      "whyStopped": "Decision to terminate development of Gantenerumab for treatment of prodromal/mild/early-stage Alzheimer's disease following results of a pre-planned analysis of the safety and efficacy of Gant in Graduate I\\&II (WN29922/WN39658).",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2020-11-18",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2023-01-11",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2023-03-15",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2020-10-02",
+      "studyFirstSubmitQcDate": "2020-10-14",
+      "studyFirstPostDateStruct": {
+        "date": "2020-10-19",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2024-01-10",
+      "resultsFirstSubmitQcDate": "2024-03-01",
+      "resultsFirstPostDateStruct": {
+        "date": "2024-03-27",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2024-03-01",
+      "lastUpdatePostDateStruct": {
+        "date": "2024-03-27",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Hoffmann-La Roche",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This is a Phase II, multicenter, open-label, single arm, PD study in participants with early (prodromal to mild) AD to evaluate the effect of a once weekly (Q1W) dosing regimen of gantenerumab on deposited amyloid as measured by change from baseline to Week 104 (primary) and Week 208 in brain amyloid positron emission tomography (PET). The administration of gantenerumab as a single injection of Q1W will be investigated in this study, to simplify the dosing regimen for participants."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Alzheimer Disease"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SEQUENTIAL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 192,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Gantenerumab",
+          "type": "EXPERIMENTAL",
+          "description": "Participants will receive gantenerumab by subcutaneous (SC) injection at a dose of 120 mg every 4 weeks (Q4W) for 12 weeks, followed by 255 mg Q4W for 12 weeks, and 255 mg every 2 weeks (Q2W) for another 12 weeks, followed by the target dose 255 mg once weekly (Q1W) for up to Week 103. Participants who complete Week 104 visit will be given an option to take part in 2-year extension of the study to receive gantenerumab 255 mg Q1W for up to Week 207.",
+          "interventionNames": [
+            "Drug: Gantenerumab"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Gantenerumab",
+          "description": "Gantenerumab will be administered by SC injection at a dose of 120 mg Q4W for 12 weeks, followed by 255 mg Q4W for 12 weeks, and 255 mg Q2W for another 12 weeks, followed by the target dose 255 mg Q1W for up to Week 103 and an optional dose of 255 mg Q1W for up to Week 207.",
+          "armGroupLabels": [
+            "Gantenerumab"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Change From Baseline in Brain Amyloid Load at Week 104 as Measured by [18F] Florbetaben Positron Emission Tomography (PET) Scan",
+          "description": "Screening amyloid PET scan was considered baseline evaluation.Brain amyloid load was quantified in terms of Standardized Uptake Value Ratio (SUVR),defined as ratio of tracer uptake in cortical composite target region of interest(ROI)to tracer uptake in reference ROI.Composite region: frontal,parietal,temporal,posterior cingulate cortex,anterior cingulate cortex. Reference ROI (whole cerebellum) was represented by weighted average of Cerebellum Ventral,Cerebellum Dorsal (left/right), Cerebellar White Matter.SUVR linearly transformed to standardized Centiloid Scale (CL) using formula CL=175.6xSUVR-174.2.CL ranges from \\<0 to \\>100, anchor points are 0=high-certainty amyloid negative scan and 100=amount of global amyloid deposition found in typical AD scan.",
+          "timeFrame": "Baseline, Week 104"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Number of Caregiver or Study Partner With Responses to Home Administration Questionnaire (HAQ)",
+          "description": "HAQ comprised 4 items completed by study partner capturing confidence (Q1), convenience (Q2), ease of use (Q3), and overall satisfaction (Q4) with administering medication. Response options Q1: Not at all confident, somewhat confident, confident, very confident; Q2: Not at all convenient, somewhat convenient, convenient, very convenient; Q3: Not at all easy, somewhat easy, easy, very easy; Q4:Not at all satisfied, somewhat satisfied, satisfied, very satisfied.",
+          "timeFrame": "Weeks 36, 52, 76, 104"
+        },
+        {
+          "measure": "Number of Participants With Adverse Events (AEs) and Serious Adverse Events (SAEs)",
+          "description": "AE: any untoward medical occurrence in participant administered pharmaceutical product, which does not necessarily have a causal relationship with treatment. Also, any unfavorable, unintended sign, symptom, or disease temporally associated with use of medicinal product, whether or not considered related to it. SAE: any AE that was fatal, life threatening, required prolonged inpatient hospitalization, resulted in significant disability or resulted in a congenital anomaly to mother exposed to study treatment. This was a single-arm study and all participants received gantenerumab according to predefined universal up-titration scheme as follows: 120 mg Q4W (Day 1, Week (W) 4, and W8), then 255 mg Q4W (W 12, 16, and 20), then 255 mg Q2W for 12 weeks (W 24, 26, 28, 30, 32, and 34), followed by target dose of 255 mg Q1W (W 36 to 104). Data was collected and reported in single arm for each participant who started treatment as specified and either completed or discontinued study.",
+          "timeFrame": "From day of first dose up to 16 weeks after the last dose (up to 120 weeks)"
+        },
+        {
+          "measure": "Number of Participants With Suicidal Ideation or Suicidal Behavior as Measured Using Columbia-Suicide Severity Rating Scale (C-SSRS)",
+          "description": "C-SSRS=assessment tool used to assess lifetime suicidality of a participant (at baseline) as well as any new instances of suicidality (C-SSRS since last visit). Structured interview prompts recollection of suicidal ideation, including intensity of ideation, behavior, \\& attempts with actual/potential lethality. Categories have binary responses (yes/no) \\& include Wish to be Dead; Non-specific Active Suicidal Thoughts; Active Suicidal Ideation with Any Methods(Not Plan)without Intent to Act; Active Suicidal Ideation with Some Intent to Act, without Specific Plan; Active Suicidal Ideation with Specific Plan and Intent, Preparatory Acts and Behavior; Aborted Attempt; Interrupted Attempt; Actual Attempt (non-fatal);Completed Suicide. Suicidal ideation/behavior is indicated by a \"yes\" answer to any of the listed categories. Score of 0 is assigned if no suicide risk is present. Score of 1 or higher= suicidal ideation or behavior. Categories with non-zero values are only reported here.",
+          "timeFrame": "From day of first dose up to 16 weeks after the last dose (up to 120 weeks)"
+        },
+        {
+          "measure": "Number of Participants With Amyloid-Related Imaging Abnormalities-Edema (ARIA-E) Confirmed by Magnetic Resonance Imaging (MRI)",
+          "description": "ARIA are an identified risk with anti-amyloid antibodies, including gantenerumab. These changes can be identified on brain MRI. The occurrences of imaging abnormalities in vasogenic edema and sulcal effusions (ARIA-E) were evaluated.",
+          "timeFrame": "From day of first dose up to 16 weeks after the last dose (up to 120 weeks)"
+        },
+        {
+          "measure": "Number of Participants With Amyloid-Related Imaging Abnormalities-Haemosiderin Deposition (ARIA-H) Confirmed by Magnetic Resonance Imaging (MRI)",
+          "description": "ARIA are an identified risk with anti-amyloid antibodies, including gantenerumab. These changes can be identified on brain MRI. ARIA-H (H for hemosiderosis) are small foci of signal loss observed on MRI sequences sensitive for paramagnetic tissue properties and comprise cerebral microbleeds (small foci of bleeding in the brain parenchyma) and leptomeningeal hemosiderosis (small foci of bleeding on the surface of the brain). These changes also occur sporadically in AD.",
+          "timeFrame": "From day of first dose up to 16 weeks after the last dose (up to 120 weeks)"
+        },
+        {
+          "measure": "Number of Participants With Injection-Site Reactions (ISR)",
+          "description": "An AE is any unfavorable and unintended sign, symptom, or disease temporally associated with the use of an investigational product or other protocol-imposed intervention, regardless of attribution. Injection reactions (local and systemic) were defined as AEs that occured during or within 24 hours after study drug administration that were judged to be related to the study drug injection.",
+          "timeFrame": "From day of first dose up to 16 weeks after the last dose (up to 120 weeks)"
+        },
+        {
+          "measure": "Number of Participants With Treatment-emergent Anti-Drug Antibodies to Gantenerumab",
+          "description": "A participant with an ADA assay result from at least one post-baseline sample was defined as a post-baseline evaluable participant. Treatment Emergent ADA was defined as a participant with a negative or missing baseline ADA result(s) and at least one positive post-baseline ADA result, or a participant with a positive ADA result at baseline who has at least one post-baseline titer results with at least a \\>2.5-fold increase in titer compared to baseline greater than the baseline titer result.",
+          "timeFrame": "From day of first dose up to 16 weeks after the last dose (up to 120 weeks)"
+        },
+        {
+          "measure": "Plasma Concentration of Subcutaneous (SC) Gantenerumab at Specified Timepoints",
+          "timeFrame": "Day 4 of Week 1, Week 24, 36, 52, and 76"
+        },
+        {
+          "measure": "Change in Brain Amyloid Based on Different Dosing Frequency",
+          "description": "The change from baseline at Week 52 using the once-weekly dosing frequency was analysed using the centiloid scale. The centiloid scale anchor points are 0 and 100, where 0 represents a high-certainty amyloid negative scan and 100 represents the amount of global amyloid deposition found in a typical AD scan. The range of centiloid values can be below 0 (negative) and greater than 100.",
+          "timeFrame": "Baseline up to Week 52"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Probable Alzheimer's Disease (AD) dementia or prodromal AD.\n* Availability of a reliable study partner (non-professional caregiver) who accepts to participate in study procedure throughout the study duration\n* The participant should be capable of completing all aspects of study assessments including MRI, clinical genotyping, and PET imaging, either alone or with the help of the study partner (non-professional caregiver).\n* Adequate visual and auditory acuitysufficient to perform the neuropsychological testing (eye glasses and hearing aids are permitted).\n* Evidence of AD pathological process, as confirmed by amyloid PET scan by qualitative read by the core/central PET laboratory.\n* Prodromal or mild symptomatology, as defined by a screening Mini-Mental State Examination (MMSE) score \\>/=22 and Clinical Dementia Rating global score (CDR-GS) of 0.5 or 1.0, as well as a clinical dementia rating (CDR) memory domain score \\>/=0.5.\n* If the participant is receiving symptomatic AD medications, a stable dosing regimen for at least 3 months prior to screening and until start of study treatment.\n* Agreement not to donate blood or blood products for transfusion for the duration of the study and for 1 year after final dose of study drug.\n* Agreement not to participate in other research studies for the duration of this trial, unless these are related Roche-sponsored non-interventional studies.\n* For women of childbearing potential: agreement to remain abstinent (refrain from heterosexual intercourse) or use contraceptive methods hat result in a failure rate of \\< 1% per year during the treatment period and for at least 16 weeks after the final dose of study drug.\n\nExclusion Criteria:\n\n* Any evidence of a condition other than AD that may affect cognition.\n* History or presence of clinically evident systemic vascular disease that in the opinion of the investigator has the potential to affect cognitive function.\n* History or presence of clinically evident cerebrovascular disease.\n* History or presence of posterior reversible encephalopathy syndrome.\n* History or presence of any stroke with clinical symptoms within the past 12 months, or documented history within the last 6 months of an acute event that is consistent with a transient ischemic attack.\n* History of severe, clinically significant CNS trauma.\n* History or presence of intracranial mass that could potentially impair cognition.\n* Presence of infections that affect brain function or history of infections that resulted in neurologic sequelae.\n* History or presence of systemic autoimmune disorders that potentially cause progressive neurologic disease with associated cognitive deficits.\n* History of schizophrenia, schizoaffective disorder, major depression, or bipolar disorder.\n* At risk for suicide in the opinion of the investigator.\n* Alcohol and/or substance abuse or dependants in past 2 years.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "50 Years",
+      "maximumAge": "90 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Clinical Trials",
+          "affiliation": "Hoffmann-La Roche",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "JEM Research LLC",
+          "city": "Atlantis",
+          "state": "Florida",
+          "zip": "33462",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 26.5909,
+            "lon": -80.10088
+          }
+        },
+        {
+          "facility": "ClinCloud, LLC",
+          "city": "Maitland",
+          "state": "Florida",
+          "zip": "32751",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 28.62778,
+            "lon": -81.36312
+          }
+        },
+        {
+          "facility": "Renstar Medical Research",
+          "city": "Ocala",
+          "state": "Florida",
+          "zip": "34470",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.1872,
+            "lon": -82.14009
+          }
+        },
+        {
+          "facility": "Alzheimer?s Research and Treatment Center",
+          "city": "Wellington",
+          "state": "Florida",
+          "zip": "33414",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 26.65868,
+            "lon": -80.24144
+          }
+        },
+        {
+          "facility": "Center for Advanced Research & Education",
+          "city": "Gainesville",
+          "state": "Georgia",
+          "zip": "30501",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.29788,
+            "lon": -83.82407
+          }
+        },
+        {
+          "facility": "Summit Research Network Inc.",
+          "city": "Portland",
+          "state": "Oregon",
+          "zip": "97210",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 45.52345,
+            "lon": -122.67621
+          }
+        },
+        {
+          "facility": "Abington Neurological Associates Willow Grove",
+          "city": "Willow Grove",
+          "state": "Pennsylvania",
+          "zip": "19090",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.144,
+            "lon": -75.11573
+          }
+        },
+        {
+          "facility": "Jessa Zkh (Campus Virga Jesse)",
+          "city": "Hasselt",
+          "zip": "3500",
+          "country": "Belgium",
+          "geoPoint": {
+            "lat": 50.93106,
+            "lon": 5.33781
+          }
+        },
+        {
+          "facility": "AZ Groeninge",
+          "city": "Kortrijk",
+          "zip": "8500",
+          "country": "Belgium",
+          "geoPoint": {
+            "lat": 50.82803,
+            "lon": 3.26487
+          }
+        },
+        {
+          "facility": "UZ Leuven Gasthuisberg",
+          "city": "Leuven",
+          "zip": "3000",
+          "country": "Belgium",
+          "geoPoint": {
+            "lat": 50.87959,
+            "lon": 4.70093
+          }
+        },
+        {
+          "facility": "Groupement Hospitalier Est - Hôpital Neurologique; Neurologie A (U502)",
+          "city": "Bron",
+          "zip": "69677",
+          "country": "France",
+          "geoPoint": {
+            "lat": 45.73865,
+            "lon": 4.91303
+          }
+        },
+        {
+          "facility": "CH Pitie Salpetriere; IM2A",
+          "city": "Paris",
+          "zip": "75651",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.85341,
+            "lon": 2.3488
+          }
+        },
+        {
+          "facility": "Gerontopole; Centre de Recherche clinique",
+          "city": "Toulouse",
+          "zip": "31059",
+          "country": "France",
+          "geoPoint": {
+            "lat": 43.60426,
+            "lon": 1.44367
+          }
+        },
+        {
+          "facility": "Ambulates Gesundheitszentrum der Charité GmbH; MVZ Neurologie Campus Benjamin Franklin",
+          "city": "Berlin",
+          "zip": "12200",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 52.52437,
+            "lon": 13.41053
+          }
+        },
+        {
+          "facility": "ECRC Experimental and Clinical Research Center, Charité Campus Berlin Buch, Memory Clinic",
+          "city": "Berlin",
+          "zip": "13125",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 52.52437,
+            "lon": 13.41053
+          }
+        },
+        {
+          "facility": "Klinikum rechts der Isar der TU München; Klinik für Psychiatrie und Psychotherapie",
+          "city": "München",
+          "zip": "81675",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.60698,
+            "lon": 13.31243
+          }
+        },
+        {
+          "facility": "Ospedale Cardinale Panico; Dip.Ricerca Clinica in Neurologia ? UO Malattie Neurodegenerative",
+          "city": "Tricase (LE)",
+          "state": "Apulia",
+          "zip": "73039",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 39.93018,
+            "lon": 18.35421
+          }
+        },
+        {
+          "facility": "Ospedale San Giovanni Calibita Fatebenefratell;Neurologia",
+          "city": "Rome",
+          "state": "Lazio",
+          "zip": "00186",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 41.89193,
+            "lon": 12.51133
+          }
+        },
+        {
+          "facility": "Fondazione San Raffaele Del Monte Tabor; Dipartimento Di Neurologia",
+          "city": "Milan",
+          "state": "Lombardy",
+          "zip": "20132",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 45.46427,
+            "lon": 9.18951
+          }
+        },
+        {
+          "facility": "NZOZ Vitamed",
+          "city": "Bydgoszcz",
+          "zip": "85-079",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 53.1235,
+            "lon": 18.00762
+          }
+        },
+        {
+          "facility": "Indywidualna Praktyka Lekarska Prof. Dr Hab. N. Med. Konrad Rejdak.",
+          "city": "Lublin",
+          "zip": "20-410",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 51.25058,
+            "lon": 22.57009
+          }
+        },
+        {
+          "facility": "Senior Sp. Z O.O. Poradnia Psychogeriatryczna",
+          "city": "Sopot",
+          "zip": "81-855",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 54.4418,
+            "lon": 18.56003
+          }
+        },
+        {
+          "facility": "Centrum Medyczne Euromedis Sp. z o.o.",
+          "city": "Szczecin",
+          "zip": "70-111",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 53.42894,
+            "lon": 14.55302
+          }
+        },
+        {
+          "facility": "Centrum Medyczne NeuroProtect",
+          "city": "Warsaw",
+          "zip": "01-684",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 52.22977,
+            "lon": 21.01178
+          }
+        },
+        {
+          "facility": "NZOZ WCA",
+          "city": "Wroc?aw",
+          "zip": "53-659",
+          "country": "Poland"
+        },
+        {
+          "facility": "Policlínica Guipuzcoa; Servicio de Neurología",
+          "city": "Donostia / San Sebastian",
+          "state": "Guipuzcoa",
+          "zip": "20014",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 43.31283,
+            "lon": -1.97499
+          }
+        },
+        {
+          "facility": "Hospital Quiron de Madrid; Servicio de Neurologia",
+          "city": "Pozuelo de Alarcón",
+          "state": "Madrid",
+          "zip": "28223",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 40.43293,
+            "lon": -3.81338
+          }
+        },
+        {
+          "facility": "Hospital Universitario de la Princesa; Servicio de Neurologia",
+          "city": "Madrid",
+          "zip": "28006",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 40.4165,
+            "lon": -3.70256
+          }
+        },
+        {
+          "facility": "Hospital Universitario 12 de Octubre; Servicio de Neurologia",
+          "city": "Madrid",
+          "zip": "28041",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 40.4165,
+            "lon": -3.70256
+          }
+        },
+        {
+          "facility": "Hospital Universitari i Politecnic La Fe; Servicio de Neurología",
+          "city": "Valencia",
+          "zip": "46026",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 39.47391,
+            "lon": -0.37966
+          }
+        },
+        {
+          "facility": "Re-Cognition",
+          "city": "Birmingham",
+          "zip": "B16 8QQ",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 52.48142,
+            "lon": -1.89983
+          }
+        },
+        {
+          "facility": "Fritchie Centre",
+          "city": "Cheltenham",
+          "zip": "GL53 9DZ",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 51.90006,
+            "lon": -2.07972
+          }
+        },
+        {
+          "facility": "Ninewells Hospital",
+          "city": "Dundee",
+          "zip": "DD12 9SY",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 56.46913,
+            "lon": -2.97489
+          }
+        },
+        {
+          "facility": "Charing Cross Hospital; Imperial Memory Unit, Level 10 West",
+          "city": "London",
+          "zip": "W6 8RF",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 51.50853,
+            "lon": -0.12574
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "Qualified researchers may request access to individual patient level data through the clinical study data request platform (www.vivli.org). Further details on Roche's criteria for eligible studies are available here (https://vivli.org/ourmember/roche/). For further details on Roche's Global Policy on the Sharing of Clinical Information and how to request access to related clinical study documents, see here (https://www.roche.com/research\\_and\\_development/who\\_we\\_are\\_how\\_we\\_work/clinical\\_trials/our\\_commitment\\_to\\_data\\_sharing.htm).",
+      "infoTypes": [
+        "STUDY_PROTOCOL"
+      ]
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "This was a single-arm study and all participants received gantenerumab according to predefined universal up-titration scheme as follows: 120 mg every 4 weeks (Q4W) (Day 1, Week (W) 4, and W8), then 255 mg Q4W (W 12, 16, and 20), then 255 mg Q2W for 12 weeks (W 24, 26, 28, 30, 32, and 34), followed by target dose of 255 mg Q1W (W 36 to 104). Data was collected and reported in single arm for each participant who started treatment as specified and either completed or discontinued study.",
+      "recruitmentDetails": "Participants took part in this study at 33 investigative centers in the United States, Poland, Spain, Belgium, France, Germany, Italy, and the United Kingdom from 18 November 2020 up to 15 March 2023.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Gantenerumab",
+          "description": "Participants received gantenerumab, subcutaneous (SC) injections with gradual up-titration starting at a dose of 120 mg, every 4 weeks (Q4W) on Day 1, Week 4, and Week 8, then 255 mg, Q4W on Weeks 12, 16, and 20, and then 255 mg every 2 weeks (Q2W) for 12 weeks (Weeks 24, 26, 28, 30, 32, and 34), followed by 255 mg every week (Q1W) up to Week 104 (Weeks 36 to 104)."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "192"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "116"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "76"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Physician Decision",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "5"
+                }
+              ]
+            },
+            {
+              "type": "Study Terminated by Sponsor",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "5"
+                }
+              ]
+            },
+            {
+              "type": "Withdrawal by Subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "53"
+                }
+              ]
+            },
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "3"
+                }
+              ]
+            },
+            {
+              "type": "Death",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Adverse Event",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "5"
+                }
+              ]
+            },
+            {
+              "type": "other",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "4"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "populationDescription": "Intent-to-treat (ITT) population set, included all enrolled participants (i.e., who gave informed consent, did not fail screening, and had at least one Amyloid PET scan with a valid quantitative measurement performed with either florbetaben or flutemetamol), whether or not the participant received the assigned treatment.",
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Gantenerumab",
+          "description": "Participants received gantenerumab, SC injections with gradual up-titration starting at a dose of 120 mg, Q4W on Day 1, Week 4, and Week 8, then 255 mg, Q4W on Weeks 12, 16, and 20, and then 255 mg Q2W for 12 weeks (Weeks 24, 26, 28, 30, 32, and 34), followed by 255 mg Q1W up to Week 104 (Weeks 36 to 104)."
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "192"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "70.5",
+                      "spread": "8.1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "97"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "95"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "179"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "11"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "176"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Change From Baseline in Brain Amyloid Load at Week 104 as Measured by [18F] Florbetaben Positron Emission Tomography (PET) Scan",
+          "description": "Screening amyloid PET scan was considered baseline evaluation.Brain amyloid load was quantified in terms of Standardized Uptake Value Ratio (SUVR),defined as ratio of tracer uptake in cortical composite target region of interest(ROI)to tracer uptake in reference ROI.Composite region: frontal,parietal,temporal,posterior cingulate cortex,anterior cingulate cortex. Reference ROI (whole cerebellum) was represented by weighted average of Cerebellum Ventral,Cerebellum Dorsal (left/right), Cerebellar White Matter.SUVR linearly transformed to standardized Centiloid Scale (CL) using formula CL=175.6xSUVR-174.2.CL ranges from \\<0 to \\>100, anchor points are 0=high-certainty amyloid negative scan and 100=amount of global amyloid deposition found in typical AD scan.",
+          "populationDescription": "ITT population set, included all enrolled participants (i.e., who gave informed consent, did not fail screening, and had at least one Amyloid PET scan with a valid quantitative measurement performed with either florbetaben or flutemetamol), whether or not the participant received the assigned treatment. Number analyzed is the number of participants with data available for analysis at the specified timepoint.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "centiloid",
+          "timeFrame": "Baseline, Week 104",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Gantenerumab",
+              "description": "Participants received gantenerumab, subcutaneous (SC) injections with gradual up-titration starting at a dose of 120 mg, every 4 weeks (Q4W) on Day 1, Week 4, and Week 8, then 255 mg, Q4W on Weeks 12, 16, and 20, and then 255 mg every 2 weeks (Q2W) for 12 weeks (Weeks 24, 26, 28, 30, 32, and 34), followed by 255 mg every week (Q1W) up to Week 104 (Weeks 36 to 104)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "192"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Baseline",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "192"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "101.80",
+                      "spread": "29.80"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Change from Baseline at Week 104",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "12"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-35.48",
+                      "spread": "16.39"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Caregiver or Study Partner With Responses to Home Administration Questionnaire (HAQ)",
+          "description": "HAQ comprised 4 items completed by study partner capturing confidence (Q1), convenience (Q2), ease of use (Q3), and overall satisfaction (Q4) with administering medication. Response options Q1: Not at all confident, somewhat confident, confident, very confident; Q2: Not at all convenient, somewhat convenient, convenient, very convenient; Q3: Not at all easy, somewhat easy, easy, very easy; Q4:Not at all satisfied, somewhat satisfied, satisfied, very satisfied.",
+          "populationDescription": "Opportunity for Home Dosing Safety-Evaluable Analysis Set (OH-SE) included all participants of the SE analysis set who did not discontinue the study drug before week 26. Number analyzed is the number of participants with data available for analysis at the specified timepoint.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Weeks 36, 52, 76, 104",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Gantenerumab",
+              "description": "Participants received gantenerumab, subcutaneous (SC) injections with gradual up-titration starting at a dose of 120 mg, every 4 weeks (Q4W) on Day 1, Week 4, and Week 8, then 255 mg, Q4W on Weeks 12, 16, and 20, and then 255 mg every 2 weeks (Q2W) for 12 weeks (Weeks 24, 26, 28, 30, 32, and 34), followed by 255 mg every week (Q1W) up to Week 104 (Weeks 36 to 104)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "163"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "W36:Q1:Not at all confident",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "72"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W36:Q1:Somewhat confident",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "72"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "10"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W36:Q1:Confident",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "72"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "33"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W36:Q1:Very confident",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "72"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "29"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W52:Q1:Not at all confident",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "148"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W52:Q1:Somewhat confident",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "148"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "10"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W52:Q1:Confident",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "148"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "46"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W52:Q1:Very confident",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "148"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "92"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W76:Q1:Not at all confident",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "126"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W76:Q1:Somewhat confident",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "126"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W76:Q1:Confident",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "126"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "34"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W76:Q1:Very Confident",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "126"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "86"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W104:Q1:Not at all confident",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "29"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W104:Q1:Somewhat confident",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "29"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W104:Q1:Confident",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "29"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W104:Q1:Very Confident",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "29"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "21"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W36:Q2:Not at all convenient",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "72"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W36:Q2:Somewhat convenient",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "72"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W36:Q2:Convenient",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "72"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "13"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W36:Q2:Very convenient",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "72"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "56"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W52:Q2:Not at all convenient",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "148"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W52:Q2:Somewhat convenient",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "148"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W52:Q2:Convenient",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "148"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "38"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W52:Q2:Very convenient",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "148"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "105"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W76:Q2:Not at all convenient",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "126"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W76:Q2:Somewhat convenient",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "126"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W76:Q2:Convenient",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "126"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "23"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W76:Q2:Very convenient",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "126"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W104:Q2:Not at all convenient",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "29"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W104:Q2:Somewhat convenient",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "29"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W104:Q2:Convenient",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "29"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W104:Q2:Very convenient",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "29"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "23"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W36:Q3:Not at all easy",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "72"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W36:Q3:Somewhat easy",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "72"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "10"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W36:Q3: Easy",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "72"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "31"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W36:Q3:Very easy",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "72"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "31"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W52:Q3:Not at all easy",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "148"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W52:Q3:Somewhat easy",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "148"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "17"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W52:Q3: Easy",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "148"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "45"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W52:Q3:Very easy",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "148"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "85"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W76:Q3:Not at all easy",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "126"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W76:Q3:Somewhat easy",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "126"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "7"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W76:Q3: Easy",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "126"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "37"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W76:Q3:Very easy",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "126"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "82"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W104:Q3:Not at all easy",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "29"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W104:Q3:Somewhat easy",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "29"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W104:Q3: Easy",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "29"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W104:Q3:Very easy",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "29"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "21"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W36:Q4:Not at all satisfied",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "72"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W36:Q4:Somewhat satisfied",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "72"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W36:Q4:Satisfied",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "72"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "26"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W36:Q4:Very satisfied",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "72"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "43"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W52:Q4:Not at all satisfied",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "148"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W52:Q4:Somewhat satisfied",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "148"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W52:Q4: Satisfied",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "148"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "44"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W52:Q4:Very satisfied",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "148"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "96"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W76:Q4:Not at all satisfied",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "126"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W76:Q4:Somewhat satisfied",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "126"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W76:Q4:Satisfied",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "126"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "38"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W76:Q4:Very satisfied",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "126"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "85"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W104:Q4:Not at all satisfied",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "29"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W104:Q4:Somewhat satisfied",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "29"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W104:Q4:Satisfied",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "29"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "W104:Q4:Very satisfied",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "29"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "21"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Adverse Events (AEs) and Serious Adverse Events (SAEs)",
+          "description": "AE: any untoward medical occurrence in participant administered pharmaceutical product, which does not necessarily have a causal relationship with treatment. Also, any unfavorable, unintended sign, symptom, or disease temporally associated with use of medicinal product, whether or not considered related to it. SAE: any AE that was fatal, life threatening, required prolonged inpatient hospitalization, resulted in significant disability or resulted in a congenital anomaly to mother exposed to study treatment. This was a single-arm study and all participants received gantenerumab according to predefined universal up-titration scheme as follows: 120 mg Q4W (Day 1, Week (W) 4, and W8), then 255 mg Q4W (W 12, 16, and 20), then 255 mg Q2W for 12 weeks (W 24, 26, 28, 30, 32, and 34), followed by target dose of 255 mg Q1W (W 36 to 104). Data was collected and reported in single arm for each participant who started treatment as specified and either completed or discontinued study.",
+          "populationDescription": "Safety Evaluable population included all participants enrolled who received at least one dose of study treatment, whether prematurely withdrawn from the study or not.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "From day of first dose up to 16 weeks after the last dose (up to 120 weeks)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Gantenerumab",
+              "description": "Participants received gantenerumab, subcutaneous (SC) injections with gradual up-titration starting at a dose of 120 mg, every 4 weeks (Q4W) on Day 1, Week 4, and Week 8, then 255 mg, Q4W on Weeks 12, 16, and 20, and then 255 mg every 2 weeks (Q2W) for 12 weeks (Weeks 24, 26, 28, 30, 32, and 34), followed by 255 mg every week (Q1W) up to Week 104 (Weeks 36 to 104)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "192"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "AEs",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "178"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "SAEs",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "26"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Suicidal Ideation or Suicidal Behavior as Measured Using Columbia-Suicide Severity Rating Scale (C-SSRS)",
+          "description": "C-SSRS=assessment tool used to assess lifetime suicidality of a participant (at baseline) as well as any new instances of suicidality (C-SSRS since last visit). Structured interview prompts recollection of suicidal ideation, including intensity of ideation, behavior, \\& attempts with actual/potential lethality. Categories have binary responses (yes/no) \\& include Wish to be Dead; Non-specific Active Suicidal Thoughts; Active Suicidal Ideation with Any Methods(Not Plan)without Intent to Act; Active Suicidal Ideation with Some Intent to Act, without Specific Plan; Active Suicidal Ideation with Specific Plan and Intent, Preparatory Acts and Behavior; Aborted Attempt; Interrupted Attempt; Actual Attempt (non-fatal);Completed Suicide. Suicidal ideation/behavior is indicated by a \"yes\" answer to any of the listed categories. Score of 0 is assigned if no suicide risk is present. Score of 1 or higher= suicidal ideation or behavior. Categories with non-zero values are only reported here.",
+          "populationDescription": "Safety Evaluable population included all participants enrolled who received at least one dose of study treatment, whether prematurely withdrawn from the study or not. Overall number analyzed is the number of participants with data available for analysis.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "From day of first dose up to 16 weeks after the last dose (up to 120 weeks)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Gantenerumab",
+              "description": "Participants received gantenerumab, subcutaneous (SC) injections with gradual up-titration starting at a dose of 120 mg, every 4 weeks (Q4W) on Day 1, Week 4, and Week 8, then 255 mg, Q4W on Weeks 12, 16, and 20, and then 255 mg every 2 weeks (Q2W) for 12 weeks (Weeks 24, 26, 28, 30, 32, and 34), followed by 255 mg every week (Q1W) up to Week 104 (Weeks 36 to 104)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "191"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Suicidal Ideation: Passive",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Suicidal Ideation: Active-Nonspecific",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Suicidal Ideation: Active-Method, But No Intent or Plan",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Suicidal Ideation: Active-Method, Intent, and Plan",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Suicidal Ideation: No Event",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "180"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Suicidal Behavior: No Event",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "191"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Self-Injurious Behavior w/o suicidal intent: No Event",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "191"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Amyloid-Related Imaging Abnormalities-Edema (ARIA-E) Confirmed by Magnetic Resonance Imaging (MRI)",
+          "description": "ARIA are an identified risk with anti-amyloid antibodies, including gantenerumab. These changes can be identified on brain MRI. The occurrences of imaging abnormalities in vasogenic edema and sulcal effusions (ARIA-E) were evaluated.",
+          "populationDescription": "MRI Safety-Evaluable Analysis Set included all participants of the SE analysis set who had at least one post-baseline MRI assessment.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "From day of first dose up to 16 weeks after the last dose (up to 120 weeks)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Gantenerumab",
+              "description": "Participants received gantenerumab, subcutaneous (SC) injections with gradual up-titration starting at a dose of 120 mg, every 4 weeks (Q4W) on Day 1, Week 4, and Week 8, then 255 mg, Q4W on Weeks 12, 16, and 20, and then 255 mg every 2 weeks (Q2W) for 12 weeks (Weeks 24, 26, 28, 30, 32, and 34), followed by 255 mg every week (Q1W) up to Week 104 (Weeks 36 to 104)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "192"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "44"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Amyloid-Related Imaging Abnormalities-Haemosiderin Deposition (ARIA-H) Confirmed by Magnetic Resonance Imaging (MRI)",
+          "description": "ARIA are an identified risk with anti-amyloid antibodies, including gantenerumab. These changes can be identified on brain MRI. ARIA-H (H for hemosiderosis) are small foci of signal loss observed on MRI sequences sensitive for paramagnetic tissue properties and comprise cerebral microbleeds (small foci of bleeding in the brain parenchyma) and leptomeningeal hemosiderosis (small foci of bleeding on the surface of the brain). These changes also occur sporadically in AD.",
+          "populationDescription": "MRI Safety-Evaluable Analysis Set included all participants of the SE analysis set who had at least one post-baseline MRI assessment.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "From day of first dose up to 16 weeks after the last dose (up to 120 weeks)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Gantenerumab",
+              "description": "Participants received gantenerumab, subcutaneous (SC) injections with gradual up-titration starting at a dose of 120 mg, every 4 weeks (Q4W) on Day 1, Week 4, and Week 8, then 255 mg, Q4W on Weeks 12, 16, and 20, and then 255 mg every 2 weeks (Q2W) for 12 weeks (Weeks 24, 26, 28, 30, 32, and 34), followed by 255 mg every week (Q1W) up to Week 104 (Weeks 36 to 104)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "192"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "44"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Injection-Site Reactions (ISR)",
+          "description": "An AE is any unfavorable and unintended sign, symptom, or disease temporally associated with the use of an investigational product or other protocol-imposed intervention, regardless of attribution. Injection reactions (local and systemic) were defined as AEs that occured during or within 24 hours after study drug administration that were judged to be related to the study drug injection.",
+          "populationDescription": "Safety Evaluable population included all participants enrolled who received at least one dose of study treatment, whether prematurely withdrawn from the study or not.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "From day of first dose up to 16 weeks after the last dose (up to 120 weeks)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Gantenerumab",
+              "description": "Participants received gantenerumab, subcutaneous (SC) injections with gradual up-titration starting at a dose of 120 mg, every 4 weeks (Q4W) on Day 1, Week 4, and Week 8, then 255 mg, Q4W on Weeks 12, 16, and 20, and then 255 mg every 2 weeks (Q2W) for 12 weeks (Weeks 24, 26, 28, 30, 32, and 34), followed by 255 mg every week (Q1W) up to Week 104 (Weeks 36 to 104)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "192"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "44"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Treatment-emergent Anti-Drug Antibodies to Gantenerumab",
+          "description": "A participant with an ADA assay result from at least one post-baseline sample was defined as a post-baseline evaluable participant. Treatment Emergent ADA was defined as a participant with a negative or missing baseline ADA result(s) and at least one positive post-baseline ADA result, or a participant with a positive ADA result at baseline who has at least one post-baseline titer results with at least a \\>2.5-fold increase in titer compared to baseline greater than the baseline titer result.",
+          "populationDescription": "Safety Evaluable population included all participants enrolled who received at least one dose of study treatment, whether prematurely withdrawn from the study or not. Overall number analyzed is the number of participants with an ADA assay result from at least one post-baseline sample.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "From day of first dose up to 16 weeks after the last dose (up to 120 weeks)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Gantenerumab",
+              "description": "Participants received gantenerumab, subcutaneous (SC) injections with gradual up-titration starting at a dose of 120 mg, every 4 weeks (Q4W) on Day 1, Week 4, and Week 8, then 255 mg, Q4W on Weeks 12, 16, and 20, and then 255 mg every 2 weeks (Q2W) for 12 weeks (Weeks 24, 26, 28, 30, 32, and 34), followed by 255 mg every week (Q1W) up to Week 104 (Weeks 36 to 104)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "191"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "26"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Plasma Concentration of Subcutaneous (SC) Gantenerumab at Specified Timepoints",
+          "populationDescription": "PK evaluable population included only participants that received the previous 6, 4, 6 or 6 planned doses at weeks 24, 36, 52 and 76, respectively. Overall number analyzed was the number of participants with data available for analysis. Number Analyzed was the number of participants with data available for analyses at the specified timepoint.",
+          "reportingStatus": "POSTED",
+          "paramType": "GEOMETRIC_MEAN",
+          "dispersionType": "Geometric Coefficient of Variation",
+          "unitOfMeasure": "microgram per milliliter",
+          "timeFrame": "Day 4 of Week 1, Week 24, 36, 52, and 76",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Gantenerumab",
+              "description": "Participants received gantenerumab, subcutaneous (SC) injections with gradual up-titration starting at a dose of 120 mg, every 4 weeks (Q4W) on Day 1, Week 4, and Week 8, then 255 mg, Q4W on Weeks 12, 16, and 20, and then 255 mg every 2 weeks (Q2W) for 12 weeks (Weeks 24, 26, 28, 30, 32, and 34), followed by 255 mg every week (Q1W) up to Week 104 (Weeks 36 to 104)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "190"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Day 4 of Week 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "190"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5.24",
+                      "spread": "73.3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 24",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "166"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "11.9",
+                      "spread": "52.0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 36",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "147"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "28.8",
+                      "spread": "50.2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 52",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "129"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "71.4",
+                      "spread": "49.0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 76",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "84"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "63.6",
+                      "spread": "50.8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Brain Amyloid Based on Different Dosing Frequency",
+          "description": "The change from baseline at Week 52 using the once-weekly dosing frequency was analysed using the centiloid scale. The centiloid scale anchor points are 0 and 100, where 0 represents a high-certainty amyloid negative scan and 100 represents the amount of global amyloid deposition found in a typical AD scan. The range of centiloid values can be below 0 (negative) and greater than 100.",
+          "populationDescription": "ITT population set, included all enrolled participants (i.e., who gave informed consent, did not fail screening, and had at least one Amyloid PET scan with a valid quantitative measurement performed with either florbetaben or flutemetamol), whether or not the participant received the assigned treatment. Overall number analyzed is the number of participants with data available for analysis.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "centiloid",
+          "timeFrame": "Baseline up to Week 52",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Gantenerumab",
+              "description": "Participants received gantenerumab, subcutaneous (SC) injections with gradual up-titration starting at a dose of 120 mg, every 4 weeks (Q4W) on Day 1, Week 4, and Week 8, then 255 mg, Q4W on Weeks 12, 16, and 20, and then 255 mg every 2 weeks (Q2W) for 12 weeks (Weeks 24, 26, 28, 30, 32, and 34), followed by 255 mg every week (Q1W) up to Week 104 (Weeks 36 to 104)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "149"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-26.19",
+                      "spread": "17.60"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "5",
+      "timeFrame": "From day of first dose up to 16 weeks after the last dose (up to 120 weeks)",
+      "description": "Safety Evaluable population. This was single-arm study and all participants received gantenerumab according to predefined universal up-titration scheme as follows: 120 mg Q4W (Day 1, Week (W) 4, and W8), then 255 mg Q4W (W 12, 16, and 20), then 255 mg Q2W for 12 weeks (W 24, 26, 28, 30, 32, and 34), followed by target dose of 255 mg Q1W (W 36 to 104). Data was collected and reported in single arm for each participant who started treatment as specified and either completed or discontinued study.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Gantenerumab",
+          "description": "Participants received gantenerumab, subcutaneous (SC) injections with gradual up-titration starting at a dose of 120 mg, every 4 weeks (Q4W) on Day 1, Week 4, and Week 8, then 255 mg, Q4W on Weeks 12, 16, and 20, and then 255 mg every 2 weeks (Q2W) for 12 weeks (Weeks 24, 26, 28, 30, 32, and 34), followed by 255 mg every week (Q1W) up to Week 104 (Weeks 36 to 104).",
+          "deathsNumAffected": 1,
+          "deathsNumAtRisk": 192,
+          "seriousNumAffected": 26,
+          "seriousNumAtRisk": 192,
+          "otherNumAffected": 144,
+          "otherNumAtRisk": 192
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Cardiac arrest",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Cholesterolosis bulbi",
+          "organSystem": "Eye disorders",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Intestinal obstruction",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "COVID-19",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Endocarditis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Herpes zoster",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Intervertebral discitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Pneumonia",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Urinary tract infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Urosepsis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Alcohol poisoning",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Fall",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Subdural haematoma",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Hyponatraemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Osteoarthritis",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Osteoporotic fracture",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Gastrointestinal carcinoma",
+          "organSystem": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Pancreatic carcinoma",
+          "organSystem": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Pancreatic neoplasm",
+          "organSystem": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Prostate cancer",
+          "organSystem": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Rectal adenocarcinoma",
+          "organSystem": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Tumour inflammation",
+          "organSystem": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Amyloid related imaging abnormality-microhaemorrhages and haemosiderin deposits",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Amyloid related imaging abnormality-oedema/effusion",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Cerebellar ischaemia",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Cerebral infarction",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Generalised tonic-clonic seizure",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Ischaemic stroke",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Partial seizures",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Presyncope",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Syncope",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Transient ischaemic attack",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Ureterolithiasis",
+          "organSystem": "Renal and urinary disorders",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Giant cell arteritis",
+          "organSystem": "Vascular disorders",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 192
+            }
+          ]
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Cataract",
+          "organSystem": "Eye disorders",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 12,
+              "numAffected": 10,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Diarrhoea",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 18,
+              "numAffected": 14,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Nausea",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 11,
+              "numAffected": 10,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Injection site reaction",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 135,
+              "numAffected": 44,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "COVID-19",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 48,
+              "numAffected": 47,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Nasopharyngitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 14,
+              "numAffected": 13,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Urinary tract infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 12,
+              "numAffected": 10,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Fall",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 30,
+              "numAffected": 22,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Product dose omission issue",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 13,
+              "numAffected": 12,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Muscle spasms",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 12,
+              "numAffected": 11,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Amyloid related imaging abnormality-microhaemorrhages and haemosiderin deposits",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 30,
+              "numAffected": 17,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Amyloid related imaging abnormality-oedema/effusion",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 50,
+              "numAffected": 40,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Dizziness",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 18,
+              "numAffected": 14,
+              "numAtRisk": 192
+            }
+          ]
+        },
+        {
+          "term": "Headache",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA version 25.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 42,
+              "numAffected": 32,
+              "numAtRisk": 192
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictionType": "OTHER",
+        "restrictiveAgreement": true,
+        "otherDetails": "The Study being conducted under this Agreement is part of the Overall Study. Investigator is free to publish in reputable journals or to present at professional conferences the results of the Study, but only after the first publication or presentation that involves the Overall Study. The Sponsor may request that Confidential Information be deleted and/or the publication be postponed in order to protect the Sponsor's intellectual property rights."
+      },
+      "pointOfContact": {
+        "title": "Medical Communications",
+        "organization": "Hoffmann-La Roche",
+        "email": "genentech@druginfo.com",
+        "phone": "800 821-8590"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2022-05-16",
+          "uploadDate": "2024-01-10T06:57",
+          "filename": "Prot_000.pdf",
+          "size": 2330177
+        },
+        {
+          "typeAbbrev": "SAP",
+          "hasProtocol": false,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Statistical Analysis Plan",
+          "date": "2023-06-20",
+          "uploadDate": "2024-01-10T06:57",
+          "filename": "SAP_001.pdf",
+          "size": 763912
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-12",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2024-02-07",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000544",
+          "term": "Alzheimer Disease"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D003704",
+          "term": "Dementia"
+        },
+        {
+          "id": "D001927",
+          "term": "Brain Diseases"
+        },
+        {
+          "id": "D002493",
+          "term": "Central Nervous System Diseases"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D024801",
+          "term": "Tauopathies"
+        },
+        {
+          "id": "D019636",
+          "term": "Neurodegenerative Diseases"
+        },
+        {
+          "id": "D019965",
+          "term": "Neurocognitive Disorders"
+        },
+        {
+          "id": "D001523",
+          "term": "Mental Disorders"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C571128",
+          "term": "gantenerumab"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}
