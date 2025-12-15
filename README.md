@@ -82,18 +82,6 @@ The notebooks require API keys for the LLM providers:
 
 Set these as environment variables or configure them in the notebook cells.
 
-### Data Paths
-
-**Note**: The notebooks currently use hardcoded paths pointing to `/Users/guoshuyan/Desktop/OpenAD`. You may need to update the `BASE_DIR` variable in each notebook to match your local setup.
-
-## Usage
-
-1. Start with `01_study1_direct_json_extraction.ipynb` to understand the direct extraction baseline
-2. Proceed to `02_study2_upstream_extraction.ipynb` for upstream segmentation evaluation
-3. Review `03_gold_dataset_construction.ipynb` to understand the gold standard annotation process
-4. Run `04_ablation1_model_prompt.ipynb` to reproduce model×prompt ablation results
-5. Execute `05_ablation2_stack_depth.ipynb` for stack depth analysis
-6. Check `06_inspect_final.ipynb` for final model comparisons
 
 ## Citation
 
@@ -103,7 +91,7 @@ If you use this work, please cite:
 @software{multi-llm-ad,
   title = {Multi-LLM-AD: Multi-LLM Evaluation for Alzheimer's Disease Clinical Trial Eligibility Criteria Extraction},
   author = {Shuyan, Guo},
-  year = {2024},
+  year = {2025},
   url = {https://github.com/shshuyan/Multi-LLM-AD}
 }
 ```
